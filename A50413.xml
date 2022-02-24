@@ -1,0 +1,701 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Macis macerata: or, A short treatise, concerning the use of mace, in meat, or drink, and medicine In six sections, the fifth whereof containeth some hints at the signaturs of simples; and the sixth, is concerning the original and cure of wind, in mans-body. By Matthew Mackaile chyrurgo medicine.</title>
+            <author>Mackaile, Matthew, fl. 1657-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50413</idno>
+            <idno type="STC">Wing M147</idno>
+            <idno type="STC">ESTC R218643</idno>
+            <idno type="EEBO-CITATION">99830216</idno>
+            <idno type="PROQUEST">99830216</idno>
+            <idno type="VID">34666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34666)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2034:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Macis macerata: or, A short treatise, concerning the use of mace, in meat, or drink, and medicine In six sections, the fifth whereof containeth some hints at the signaturs of simples; and the sixth, is concerning the original and cure of wind, in mans-body. By Matthew Mackaile chyrurgo medicine.</title>
+                  <author>Mackaile, Matthew, fl. 1657-1696.</author>
+               </titleStmt>
+               <extent>[20], 91, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Forbes, printer to the Town and Colledges,</publisher>
+                  <pubPlace>Aberdene :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontis = ill.</note>
+                  <note>Reproduction of the original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pepper (Spice) --  Early works to 1800.</term>
+               <term>Medicine, Popular --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:34666:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>unicorn bearing Aberdeen coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:34666:1"/>
+            <p>Macis Macerata, OR, A Short Treatiſe, con<g ref="char:EOLhyphen"/>cerning the uſe of MACE, In <hi>Meat,</hi> or <hi>Drink,</hi> and <hi>Medicine.</hi>
+            </p>
+            <p>
+               <hi>In ſix Sections, the fifth whereof containeth ſome Hints at the Signaturs of Simples; and the ſixth, is concerning the Original and Cure of Wind, in Mans-Body.</hi>
+            </p>
+            <p>By MATTHEW MACKAILE Chyrurgo Medicine.</p>
+            <p>
+               <hi>ABERDENE,</hi> Printed by IOHN FORBES, Printer to the <hi>Town</hi> and <hi>Colledges,</hi> 1677.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34666:2"/>
+            <pb facs="tcp:34666:2"/>
+            <head>Unto the Right Honorable, GEORGE SKEEN, <hi>of Fintray, Lord Proveſt.</hi> ALEXANDER ALEXANDER, GILBERT MOLYSON, ALEXANDER GORDON, ALEXANDER BURNET, Baylies. CHARLES DUN Dean of Gild, Mr. PATRICK SANDELANDS, Treaſurer. And, the reſt of the Honorable Councill of the City of ABERDEEN</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I call to re<g ref="char:EOLhyphen"/>memberance, that in the <hi>Year 1671</hi> I was invited by your <hi>Ho. Prede<g ref="char:EOLhyphen"/>ceſſors,</hi>
+               <pb facs="tcp:34666:3"/>to ſerve this Antien<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Honorable <hi>City,</hi> as a <hi>Chi<g ref="char:EOLhyphen"/>rurgian</hi> and <hi>Apothecarie,</hi> and the great Obligations by <hi>Them,</hi> and your <hi>Ho.</hi> (ſome of of You be<g ref="char:EOLhyphen"/>ing then <hi>Magiſtrats</hi>) conferred upon me, I could not but be incited to this <hi>Addreſs</hi> (as a demonſtra<g ref="char:EOLhyphen"/>tion of my <hi>Gratitude</hi>) wherein I cannot but reminde You, that at that time it was prudently O<g ref="char:EOLhyphen"/>vertured, that the <hi>Complement</hi> of being made <hi>Burger,</hi> ſhould not be conferred upon me, untill my, <hi>Qualifications</hi> were tryed I had never ſuch overweaning thoughts of my ſelf, as to pretend to more than a <hi>Competency</hi> of <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> in what I profeſſed (which for me to deny, were Ingratitude to my <hi>Maker</hi>) and I hope Your <hi>Ho.</hi> have been convinced of it,
+<pb facs="tcp:34666:3"/>by the <hi>Tryal</hi> which I did then un<g ref="char:EOLhyphen"/>dergo, and what the <hi>Almighty</hi> hath ſince enabled me to doe; a ſufficient teſtimony whereof are, my <hi>Noli me-tangere tactum,</hi> or a <hi>Treatiſe concerning Can<g ref="char:EOLhyphen"/>cers;</hi> and the <hi>Skeleton</hi> which I made [and previouſly thereto pub<g ref="char:EOLhyphen"/>lickly did] and gifted to the <hi>Bi<g ref="char:EOLhyphen"/>liotheck</hi> of the <hi>Mariſchal. Col<g ref="char:EOLhyphen"/>ledge,</hi> in the Year 1676. I muſt alſo render moſt hearty thanks for Your <hi>Ho</hi> checking a moſt invi<g ref="char:EOLhyphen"/>dious and ignorant <hi>Mountebank H. H</hi> for his impertinently and falſly reflecting upon all the Learn<g ref="char:EOLhyphen"/>ed <hi>Phyſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in this <hi>City,</hi> and my ſelf, whom he did inſolently name when mounted on his <hi>Stage Iuly 4 1677 Right Honorable;</hi> I ſhall not moleſt Your <hi>Eyes</hi> or <hi>Ears,</hi> with any adulatory expreſ<g ref="char:EOLhyphen"/>ſions
+<pb facs="tcp:34666:4"/>neither render my ſelf cenſur<g ref="char:EOLhyphen"/>able for them, ſeeing the <hi>Elogies</hi> d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e unto You in your <hi>Stations,</hi> do tranſcend my Ability to expreſs them, but only breath thoſe hearty <hi>wiſhes,</hi> that this <hi>City</hi> hereafter may never be ſerved by any, but ſuch as are much more accom<g ref="char:EOLhyphen"/>pliſhed than my ſelf; and that You may ſtill perſist in the Exerciſe of all noble <hi>Vertues;</hi> and be inſtru<g ref="char:EOLhyphen"/>mentall for perpetuating the <hi>Splendor</hi> of this <hi>City</hi> by a hope<g ref="char:EOLhyphen"/>full and happy <hi>Progeny,</hi> which is the ſerious deſire of,</p>
+            <closer>
+               <salute>Right Honorable,</salute> 
+               <signed>Your <hi>Ho,</hi> moſt humble Servant, Matthew Mackaile.</signed>
+               <dateline>
+                  <hi>ABERDEEN, <date>Auguſt 15, 1677.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34666:4"/>
+            <head>Epiſtle to the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N this criticall</hi> Age <hi>no doubt ther will be found ſome of the malevolent and ſevere</hi> Tribe <hi>of</hi> Zoilus, <hi>whoſe</hi> parcell<g ref="char:EOLhyphen"/>literature <hi>incapacitat<g ref="char:EOLhyphen"/>ing them</hi> permanently <hi>to criticiſe wher there may be ſome ground for it (for<g ref="char:EOLhyphen"/>merly given by my ſelf) yet will be</hi> verbally <hi>attempting it; which maketh mo apprehenſive, that ſome will acouſe me of too much ſcribling. But ſeeing I ever levelled my</hi> Endeavours <hi>at a far nobler</hi> End, <hi>than the</hi> Nothing <hi>of vul<g ref="char:EOLhyphen"/>gar</hi> Applauſe, <hi>and that the temper of my</hi> Genius, <hi>is too</hi> Stoical <hi>to be amuſed by the weak aſſaults of</hi> Detraction; <hi>I think I may ſatisfie my ſelf, and all in<g ref="char:EOLhyphen"/>genious and ſober perſons, when I con<g ref="char:EOLhyphen"/>ſider. Firſt, that I did never obfletricat other mens</hi> Notions <hi>into the</hi> World. <hi>2ly, Nor medale with any</hi> Subject,
+<pb facs="tcp:34666:5"/>
+               <hi>which another had taken in hand, 3ly, As I have not advantaged my ſelf ther<g ref="char:EOLhyphen"/>by, neither have I given occaſion to any, to be at much</hi> Expenſe, <hi>for what I of<g ref="char:EOLhyphen"/>fered to their conſideration. 4ly, Being in the Countrey ſometimes a day or two, I thought this no bad way, of ſpending the vacant hours. 5ly, My chief de<g ref="char:EOLhyphen"/>ſign was the advantage of others; which tho I ingeniouſly acknowledge, I could not ſo conſiderably advance (as others have doue, by their more elaborat En<g ref="char:EOLhyphen"/>deavours) by this ſmall</hi> Treatiſe; <hi>yet I hope therin will be found ſome things, which ſhall under the comprehenſion, only of ſuch, as have more than looked into the miſterious Temple of</hi> Aeſenla<g ref="char:EOLhyphen"/>pius, <hi>of whoſe favourable acceptance I am not much doubtful And as for the</hi> Invidious, <hi>their</hi> cenſure, <hi>I value no more then their</hi> knowledge, <hi>prompt<g ref="char:EOLhyphen"/>ing them to talk, as if they were</hi> the man, with whom knowledge and skill ſhould dye; <hi>and as if</hi> Art <hi>had dignified them with the</hi> key <hi>of</hi> Nature-Cabin, <hi>and thinking that they are</hi> Ma<g ref="char:EOLhyphen"/>ſters
+<pb facs="tcp:34666:5"/>
+               <hi>of her greateſt</hi> S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>crare, <hi>tho they know not how so open her</hi> Houſe of Offies, <hi>without raiſing a moſt noxious</hi> ſmall. <hi>Such empty and ridiculous</hi> Rai<g ref="char:EOLhyphen"/>lers (<hi>the true</hi> Grievance <hi>of</hi> Societies) <hi>who vent formenting</hi> paſſions, <hi>only ſet on work, by their own ſhallow</hi> ſurmiſes, <hi>will never be able to ſulley the</hi> Repu<g ref="char:EOLhyphen"/>tation <hi>of any ſcr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing their</hi> Generati<g ref="char:EOLhyphen"/>on <hi>in a fairer</hi> Repure, <hi>then is their own. Notwithſtanding of which, I thought it my duty (having this oppor<g ref="char:EOLhyphen"/>tunity, a little to vindicat my</hi> Reputa<g ref="char:EOLhyphen"/>tion <hi>from the</hi> Aſperſions, <hi>moſt</hi> furi<g ref="char:EOLhyphen"/>ouſly <hi>and without any</hi> provocation, <hi>caſt upon it, by a moſt confident and ig<g ref="char:EOLhyphen"/>norant</hi> Mountebank, Henry Ham<g ref="char:EOLhyphen"/>milton; <hi>who coming to</hi> Aberdeen <hi>in the end of</hi> May 1677, <hi>did twiſe or thriſe appear upon his</hi> Stage (<hi>like</hi> Si<g ref="char:EOLhyphen"/>mon the Sorc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rer, giving out that himſelf was ſome great one) <hi>whilſt, I was in the Countrey, at every time very directly reflecting upon me; and</hi> Iuly 4. <hi>named me particularly: ſo en<g ref="char:EOLhyphen"/>deavouring to commend his own</hi> Skill,
+<pb facs="tcp:34666:6"/>
+               <hi>by deerying of mine; and particularly affirming, that</hi> he had cut and cured David Craighead of a Cancor in his Lip, which I had been about nyne moneths, and could not effectuat; <hi>withall</hi> aſſuring the Spectators that it would never break out again. <hi>Notwithſtanding of which, before the end of</hi> Auguſt, <hi>a new</hi> Tumor <hi>did ap<g ref="char:EOLhyphen"/>pear in the ſame place, and was a little <g ref="char:V">Ʋ</g>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cerat. This poor man having been recommended to my care, by a</hi> Right Honorable Earle <hi>in this</hi> Shyre, <hi>I did by the bleſſing of God, cure him without</hi> cutting, <hi>betwixt the</hi> 19 <hi>of</hi> Auguſt, <hi>and the</hi> 13 <hi>of</hi> October 1675, <hi>after which he continued whole ſeveral</hi> moneths. <hi>The</hi> Winter <hi>being over, he returned to me fearing a</hi> Recidive, <hi>but I refuſ<g ref="char:EOLhyphen"/>ed to meddle with him, becauſe he had troubled me more, then all others in his condition had done. And particularly, at the begining, I had no little difficul<g ref="char:EOLhyphen"/>ty in perſwading him to let take off his big</hi> Beard: <hi>which made me reſolve, herafter only to</hi> cut <hi>thoſe of his quality</hi>
+            </p>
+            <pb facs="tcp:34666:6"/>
+            <p>
+               <hi>If this</hi> M. <hi>had only reflected upon my ſelf, I had taken the leſs notice of his</hi> Calumnies; <hi>but ſeeing he did alſo aſſault all the learned and skilful</hi> Phy<g ref="char:EOLhyphen"/>ſitians <hi>&amp;</hi> Chirurgions <hi>in this</hi> King<g ref="char:EOLhyphen"/>dom, <hi>by his moſt Non-ſenſicall and ri<g ref="char:EOLhyphen"/>dicolous printed</hi> Paper, (<hi>which is a</hi> ſcandall <hi>to our</hi> Nation;) <hi>the deſerved reſpect which I ow unto them, hath made me give the following account thereof.</hi>
+            </p>
+            <p>Firſt, <hi>Therein he by way of</hi> Inſcrip<g ref="char:EOLhyphen"/>tion, <hi>deſigneth himſelf,</hi> Mille Opifex, Midica<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inis Auctor, &amp; Auſpex, Primus Lecheos docuit depallere.</p>
+            <p>
+               <hi>And afterwards,</hi> Opithalmiſta, Lishomus, <hi>and</hi> Profeſſor, <hi>no leſs then</hi> 14 <hi>times.</hi>
+            </p>
+            <p>Secondly, <hi>He having forgot the common</hi> Proverb, Laus proprio ſor<g ref="char:EOLhyphen"/>deſcit in ore; <hi>but more eſpecially</hi> So<g ref="char:EOLhyphen"/>lomon's, Let another man praiſe thee, and not thine own mouth <hi>&amp;c. doth endeavour by his</hi> great ſwelling words of vanity <hi>to allure the ignorant</hi> Vulgar, <hi>affirming,</hi> Firſt, <hi>three ſeve<g ref="char:EOLhyphen"/>rall
+<pb facs="tcp:34666:7"/>times, that</hi> No Man, (<hi>and once, that</hi> No Man in this Land knew the like, or) can or could come near him in the Art. <hi>The true reaſon wher<g ref="char:EOLhyphen"/>of</hi> St. Paul <hi>hath given</hi> — ſome that commend themſelves: but they meaſuring themſelvs by themſelve are not wiſe. <hi>For this undervaluing, be makes a mends, by promiſing</hi> to put all his 5 years Cures, in a method for the Preſs; for the benefit of his loving Countrie men. 2ly, <hi>that</hi> he cureth thoſe that are peſt help, and ſuch as are given for dead, and be<g ref="char:EOLhyphen"/>yond all hope; <hi>and offereth</hi> to cure all perſons who cannot be cured by any other. 3ly, He cureth the Gout infallibly, if the perſon be in the hight of the diſtemper, in ſix hours; <hi>and immediatly thereafter, he taketh no leſs then</hi> 24. hour<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to cure the Ci<g ref="char:EOLhyphen"/>atica, <hi>as he calls it.</hi> 4ly, <hi>He affirmeth that</hi> he hath cured Children of Ca<g ref="char:EOLhyphen"/>taracts; <hi>by him called</hi> Catherick, 5ly, He cureth all ſorts of Pox; and the falling-ſickneſs proceeding from
+<pb facs="tcp:34666:7"/>any cauſe whatſomever; and eſpe<g ref="char:EOLhyphen"/>cially Ruptures (<hi>by him called</hi> Her<g ref="char:EOLhyphen"/>nia Canola) without loſs of time, knowledge of friends, or neglect of buſſineſs. 6ly, In half an hours time, he cured a woman that had been deaf 30 years. 7ly, (<hi>which is beſt of all</hi>) He takes forth rotten Teeth with Ingenuity. 8ly, He hath an excellent preſervative againſt Barrenneſs in Women, a thouſand times experienced; <hi>which muſt be his</hi> Mille Opifex. <hi>All which he would have beleeved: becauſe</hi> he had his E<g ref="char:EOLhyphen"/>ducation <hi>firſt in</hi> America, (<hi>the moſt barbarous and ignorant Quarter of the</hi> World) and <hi>then</hi> in Europe.</p>
+            <p>
+               <hi>Moreover, the reſt of his Vocabu<g ref="char:EOLhyphen"/>laria</hi> (viz. Scrufuſionem <hi>or</hi> Catu<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctum, Polypum, Scroficlus, Ly<g ref="char:EOLhyphen"/>entera, Deſcu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ima, Colica Peſſio, <hi>and</hi> Ilian Paſſio, Poripulmonimus, &amp;c.) <hi>are a ſufficient</hi> Touchſton <hi>of his</hi> qualifications. <hi>Becauſe for ſooth this</hi> M. <hi>by ſerving ſome other of that</hi> Profeſſion (<hi>tho not as an</hi> Apprentice)
+<pb facs="tcp:34666:8"/>
+               <hi>hath learned to</hi> cut <hi>a</hi> Cancer, <hi>a</hi> Her<g ref="char:EOLhyphen"/>nia, <hi>and to do ſome ſuch</hi> Operations, <hi>(with greater confidence than know<g ref="char:EOLhyphen"/>ledge,) ſometimes with ſucceſs (the all knowing</hi> Chirurgians <hi>have moſt war<g ref="char:EOLhyphen"/>rily, and ſometimes anxiouſly advon<g ref="char:EOLhyphen"/>tured upon thom) therefore muſt He mount himſelf upon a</hi> Stage, <hi>deerying the</hi> Skill <hi>of all others, and ſo offering as it were to force</hi> Providence <hi>to get</hi> Imployment <hi>to him. Were it not bet<g ref="char:EOLhyphen"/>ter for ſuch a perſon to live privatly? as others doe; at leaſt, untill he acquyre better</hi> Language <hi>wherewith to ap<g ref="char:EOLhyphen"/>pear, especially amongst</hi> Scholars, (<hi>for,</hi> even a fool, when he holdeth his peace, is counted wiſe,) <hi>rather than by perſiſting, to demonſtrate, that, in</hi> Medicin, Ignorance <hi>is more ſure<g ref="char:EOLhyphen"/>ly the eauſe of</hi> Confidence, <hi>than in</hi> Divinity <hi>it is of</hi> Devotion.</p>
+            <p>
+               <hi>So eminently accompliſhed</hi> Virtuo<g ref="char:EOLhyphen"/>ſo's, <hi>would do well to ſpend ſome of their Idle houres, in the diſquiſition of the</hi> Cuckow<hi>'s (or</hi> Gowk<hi>'s) nature, for ſolying the many</hi> Phaenomena <hi>relat<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:34666:8"/>to it.</hi>
+            </p>
+            <p>
+               <hi>At,</hi> I. <hi>Why that</hi> Bird (<hi>being ſilent all the</hi> Winter) <hi>doth by its melodious voice, diſturb the pleaſant and concor<g ref="char:EOLhyphen"/>dant chirming of the</hi> Lark, <hi>and other delicious</hi> Birds; <hi>whoſe</hi> Organs <hi>are tun<g ref="char:EOLhyphen"/>ed of new, when</hi> Phoebus <hi>beginneth more vigorouſly to display the native splendor of all</hi> Beings.</p>
+            <p n="2">II. <hi>Why the veſicating</hi> Nettle, <hi>is not ſo often (if at all deformed, as is the milde and fragrant</hi> Lavender, <hi>by what is called the</hi> Cuckow's ſpittle? <hi>which is nothing elſe but the</hi> Sperm <hi>or</hi> Excrement <hi>of ſome deſpicable</hi> Inſect, <hi>which being depoſed upon the</hi> Herb, <hi>&amp; fomented by the common influence of the</hi> Sun (<hi>which alſo oberiſheth the uſe<g ref="char:EOLhyphen"/>full</hi> Silk. Worm) <hi>contracteth lyfe and then extracteth the juice of the</hi> Herb; <hi>for its Aliment. Wherefore in the middle of that</hi> Spuma, <hi>or</hi> Froth, <hi>we will conſtantly find, a little ſtercorace<g ref="char:EOLhyphen"/>ouſly coloured</hi> Flee.</p>
+            <p n="3">III. <hi>Why the mordicant</hi> Naſtur<g ref="char:EOLhyphen"/>tium Pratenſe <hi>doeth not ſlower untill
+<pb facs="tcp:34666:9"/>the</hi> Cuckow <hi>begin to crow? for which it is alſo called</hi> Flos Cuculi.</p>
+            <p>
+               <hi>Surely the morall improvement of theſe</hi> Notions, <hi>and the further pro<g ref="char:EOLhyphen"/>ſecution of theſe</hi> Reſemblances, <hi>be<g ref="char:EOLhyphen"/>twixt the irrationall</hi> Cuckow, <hi>and thoſe who uſe (too doſervedly) to be deſigned by the ſimple</hi> Name, <hi>would in ſome meaſure contribute to the peace of</hi> Humane Societies; <hi>and to the pre<g ref="char:EOLhyphen"/>venting of ſuch inſolent</hi> Impertinen<g ref="char:EOLhyphen"/>cies.</p>
+            <p>
+               <hi>This</hi> Treatiſe <hi>is particularly re<g ref="char:EOLhyphen"/>commended unto ſuch of the</hi> Female Sex, <hi>as are most ſtudious, only of the</hi> Diecteticall <hi>part of</hi> Medicin (<hi>com<g ref="char:EOLhyphen"/>monly called</hi> Kitchin Phyſick) <hi>it be<g ref="char:EOLhyphen"/>ing chiefly of that nature, and moſt pro<g ref="char:EOLhyphen"/>perly belonging unto them, who doe prudently forbear medleing with</hi> Vo<g ref="char:EOLhyphen"/>mitive <hi>and</hi> Purgative Medicins, <hi>which ſome of them (and too many of my own, lyke a</hi> Ruſtick Fiſher-Man, <hi>offering to</hi> Pilot <hi>a</hi> Ship <hi>to the</hi> Indies) <hi>have imprudently adventured to make uſe of to the prejudice of others; think<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:34666:9"/>it alſe enſie thus to arrive at</hi> Health (<hi>the</hi> Metropolis <hi>of all our temporall</hi> mercies) <hi>as it is to goe to</hi> E<g ref="char:EOLhyphen"/>dinburgh <hi>by land, from one</hi> Town <hi>to another, untill they reach it. Whereas it is rather lyke a</hi> Voyage <hi>thither by</hi> Sea, <hi>where the</hi> Tyde <hi>and</hi> Wind <hi>doe and may often change, or blow tempeſ<g ref="char:EOLhyphen"/>tuouſly, to the puzling of the beſt</hi> Pilot <hi>and all his</hi> Skill.</p>
+            <p>
+               <hi>The lateſt and beſt</hi> Phyſicians, <hi>hav<g ref="char:EOLhyphen"/>ing written of</hi> Medicin, <hi>according to the laeſed or decayed</hi> faculties <hi>of</hi> Mans <hi>body, and the</hi> Concoction <hi>of the</hi> Stomack, <hi>being the firſt, and this</hi> Simple, Mace, <hi>a moſt excellent re<g ref="char:EOLhyphen"/>medie for it, I thouht it might be uſe<g ref="char:EOLhyphen"/>full for all (being altogether void of hazard) untill they ſhould advertiſe and adviſe with the</hi> Phyſitians, <hi>con<g ref="char:EOLhyphen"/>cerning that or any other</hi> Diſtemper <hi>occaſioned thereby.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Courteous Reader <hi>is earneſt<g ref="char:EOLhyphen"/>ly deſired, to pardon the disproportio<g ref="char:EOLhyphen"/>nable prolixity of this</hi> Epiſtle, <hi>which hath been ſwelled by my neceſſitated</hi>
+               <pb facs="tcp:34666:10"/>Vindication <hi>from the</hi> Aſperſions <hi>of One whom the</hi> Vulgar <hi>esteem a</hi> Li<g ref="char:EOLhyphen"/>centiat; <hi>whom thus I have eudea<g ref="char:EOLhyphen"/>voured to</hi> Anſwere, according to his folly, loſt he be wiſe in his own Conceit, <hi>for which I am altoge<g ref="char:EOLhyphen"/>ther excuſeable by him, who affirmed, (when I accuſed him) that</hi> the ſpeak<g ref="char:EOLhyphen"/>ing of Trueth, was no Reflecting.</p>
+            <closer>
+               <signed>Farewell M. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34666:10"/>
+            <head>
+               <hi>Macis Macerata.</hi> OR, A Short Treatiſe concerning the uſe of the <hi>Mace,</hi> in Meat or Drink, and Medicine.</head>
+            <div n="1" type="section">
+               <head>SECTION I.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving reſolved to write a little, concerning the uſe of this Sim<g ref="char:EOLhyphen"/>ple, called <hi>Mace,</hi> I ſhall begin with a ſhort deſcrip<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on of it, make<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:34666:11"/>uſe only of <hi>Schroder,</hi> as one of the beſt of our Modern wri<g ref="char:EOLhyphen"/>ters.</p>
+               <p>In his <hi>Pharmacopoea Medico-Chymica, lib.</hi> 4. <hi>cap.</hi> 219. he calls it a <hi>Rinde</hi> or <hi>Bark,</hi> which groweth about the <hi>Nutmeg,</hi> which is called <hi>Nux-moſchata,</hi> &amp; <hi>Muſcata, Nux Aromatica, Nux Myriſtica,</hi> ſen <hi>
+                     <g ref="char:V">Ʋ</g>nguentaria;</hi> &amp; <hi>Nuciſta.</hi>
+               </p>
+               <p>
+                  <hi>Cluſius</hi> affirmeth, that there is a leſſer ſort, called the Fe<g ref="char:EOLhyphen"/>male, and a greater, the Male.</p>
+               <p>It groweth in an <hi>Yland</hi> called <hi>Banda</hi> in the <hi>Eaſt-Indies.</hi>
+               </p>
+               <p>It is covered with a twofold husk or bark, the outmoſt of which is the groſſeſt or thickeſt (like that of the <hi>Walnut</hi>) which openeth, when it com<g ref="char:EOLhyphen"/>eth to maturitie; ſo that the
+<pb n="3" facs="tcp:34666:11"/>other, being the <hi>Mace,</hi> doth appear, ſurrounding the <hi>Nut<g ref="char:EOLhyphen"/>meg,</hi> like a little Net-work. But there is betwixt the <hi>Mace</hi> and the <hi>Nutmeg,</hi> a thin ſhell, broun without, like the skin of a <hi>Cheſunt;</hi> which <hi>Schroder</hi> men<g ref="char:EOLhyphen"/>tioneth not, as doth <hi>Perkinſon.</hi>
+               </p>
+               <p>The <hi>Mace</hi> of the Ancients (called <hi>Macer</hi>) is the lignous, or woodie Bark of a tree, which uſed to be brought from <hi>Bar<g ref="char:EOLhyphen"/>barie.</hi>
+               </p>
+               <p>There is alſo a ſort of <hi>Macer</hi> in the <hi>Oriental Ylands,</hi> which, perchance, is the ſame with that of the Ancients.</p>
+               <p>The <hi>Nutmeg</hi> is hot and dry, or heats and dryes, with aſ<g ref="char:EOLhyphen"/>tringency. It is good for the <hi>Stomack, Head</hi> and <hi>Womb.</hi> It diſpelleth Wind, helpeth Di<g ref="char:EOLhyphen"/>geſtion,
+<pb n="4" facs="tcp:34666:12"/>correcteth the ſtink<g ref="char:EOLhyphen"/>ing-Breath, refreſheth the Con<g ref="char:EOLhyphen"/>ception, aideth the Suooning and Palpitation of the <hi>Heart,</hi> leſſneth the <hi>Splen</hi> (or rather the pains thereof) ſtopeth Fluxes, and ſtayeth Vomiting.</p>
+               <p>The ſame Vertues are aſ<g ref="char:EOLhyphen"/>cribed to the <hi>Mace.</hi> But, be<g ref="char:EOLhyphen"/>cauſe it is of more delicat parts it is therefore thought more efficacious, and penetrant in its operation.</p>
+               <p>Theſe things <hi>Schroder</hi> affir<g ref="char:EOLhyphen"/>meth.</p>
+            </div>
+            <div n="2" type="section">
+               <head>SECTION II.</head>
+               <p>IN the ſecond place, I ſhall add a few words concerning its temperature (the only com<g ref="char:EOLhyphen"/>petent
+<pb n="5" facs="tcp:34666:12"/>judge whereof I appre<g ref="char:EOLhyphen"/>hend to be the <hi>Taſte</hi>) which I beleeve to be, as is before ex<g ref="char:EOLhyphen"/>preſſed. And the learned Au<g ref="char:EOLhyphen"/>thor not having adventured, preciſely to condeſcend upon the degrees of its <hi>heat</hi> and <hi>dry<g ref="char:EOLhyphen"/>neſs,</hi> neither ſhall I, who could never find the <hi>Scales</hi> &amp; <hi>Grains,</hi> by which to meaſure them; and have much admired, the confidence of many, who hav<g ref="char:EOLhyphen"/>ing neither ſeen nor handled them, yet have peremptorily determined, the degrees of <hi>heat cold, moiſture,</hi> and <hi>dryneſs</hi> in all <hi>Concrets</hi> Vegetable or Mineral; without giving the leaſt ſhew or reaſon for their aſſertions.</p>
+               <p>Although the <hi>Mace</hi> be not ſo grateful to the <hi>ſmell</hi> and <hi>taſte</hi> as is <hi>Cinamon,</hi> yet I humbly
+<pb n="6" facs="tcp:34666:13"/>conceive, that of all <hi>Spyces,</hi> its ſulphureous parts (which are the chief) are moſt amicall to the animall ſpirits. <hi>Firſt,</hi> Be<g ref="char:EOLhyphen"/>cauſe (if without offence to the more refined I might aver) that in <hi>Cinamon,</hi> there are two degrees (if not moe) of in<g ref="char:EOLhyphen"/>flaming <hi>heat,</hi> for one in <hi>Mace;</hi> which is demonſtrat by the <hi>taſte. Secondly,</hi> It may be uſed in <hi>Fevers &amp;c.</hi> (of which more hereafter) with much leſs ha<g ref="char:EOLhyphen"/>zard, then <hi>Cinamon.</hi>
+               </p>
+               <p>The debate amongſt <hi>Natu<g ref="char:EOLhyphen"/>raliſts</hi> (I mean thoſe who wrote moſt acuratly, concerning the old <hi>manifest qualities</hi> of <hi>Sim<g ref="char:EOLhyphen"/>ples</hi>) hath been ſo great, that they cannot agree, anent the <hi>heat</hi> and <hi>cold</hi> of <hi>natural Bodies,</hi> All the Antients affirming <hi>A<g ref="char:EOLhyphen"/>romaticks</hi>
+                  <pb n="7" facs="tcp:34666:13"/>(or <hi>Spyces</hi>) and <hi>Salts</hi> to be <hi>hot,</hi> and the <hi>juices</hi> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Li<g ref="char:EOLhyphen"/>mons Sorrels, &amp;c.</hi> and <hi>Vinegar,</hi> to be <hi>cold.</hi>
+               </p>
+               <p>And of late, ſome alleadge moſt confidently the foremen<g ref="char:EOLhyphen"/>tioned <hi>juices,</hi> and <hi>Vinegar,</hi> to be alſo <hi>hot,</hi> that is ſuch bodies, as do excite inflammations, when admitted into the body of man.</p>
+               <p>Having formerly, and at large, offered to the conſidera<g ref="char:EOLhyphen"/>tion of the Ingenious, my opi<g ref="char:EOLhyphen"/>nion concerning this affair, I ſhall not here trouble the <hi>Rea<g ref="char:EOLhyphen"/>der</hi> therewith, but refer him to <hi>Moffet-Well, pag.</hi> 60. <hi>&amp;c.</hi> to <hi>pag</hi> 80.</p>
+               <p>Being thus engaged to men<g ref="char:EOLhyphen"/>tion that <hi>Tractat,</hi> I muſt deſire to be excuſed, for taking li<g ref="char:EOLhyphen"/>berty
+<pb n="8" facs="tcp:34666:14"/>here to inſert (tho hete<g ref="char:EOLhyphen"/>rogeniouſly to this ſubject) two things, which tho they did not occur to me, untill after the publication of that <hi>Trea<g ref="char:EOLhyphen"/>tiſe,</hi> yet may prove uſefull or delectable to ſome.</p>
+               <p>The <hi>firſt</hi> is, I being one day diſcourſing, with a moſt lear<g ref="char:EOLhyphen"/>ned Profeſſor of Phyloſiphy at <hi>Edenburgh,</hi> anent the nature of that <hi>Water;</hi> and he mantain<g ref="char:EOLhyphen"/>ing the vulgar opinion, that it did run through <hi>Brimston,</hi> I anſwered thus.</p>
+               <p>Becauſe the <hi>Water</hi> of <hi>Moffet-Well,</hi> ſmelleth moſt like to the droſs of <hi>Gun powder,</hi> remaining in a Gun, which hath been of<g ref="char:EOLhyphen"/>ten ſhot (<hi>Gun-powder</hi> conſiſt<g ref="char:EOLhyphen"/>ing for the moſt part, of <hi>Brim<g ref="char:EOLhyphen"/>sten</hi> and <hi>Nitre</hi>) it is the vulgar
+<pb n="9" facs="tcp:34666:14"/>opinion of Phiſicians that this <hi>Water</hi> runeth through <hi>Brimſton</hi> to which I do opoſe theſe two reaſons.</p>
+               <p>
+                  <hi>First</hi> This <hi>Water</hi> Vomiteth and Purgeth. But none of the forementioned Aſſertors, can inſtance one <hi>Medicin</hi> made of <hi>Brimſton</hi> which commonly do<g ref="char:EOLhyphen"/>eth either. I ſay commonly: becauſe <hi>Brimſton</hi> may cauſe ſome one or two perſons vo<g ref="char:EOLhyphen"/>mite or purge, by reaſon of ſome naturall antipathy. As I have heard it reported, that there is a family in <hi>France,</hi> all the branches whereof, have ſuch an antipathy at the <hi>Roſe,</hi> that (notwithſtanding it be a flower moſt refreſhing to man<g ref="char:EOLhyphen"/>kind) they would faint at the ſmelling or taſting of it. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi>
+                  <pb n="10" facs="tcp:34666:15"/>It is ſufficiently well known, to all <hi>Phyſicians,</hi> that all <hi>Medicins</hi> made of <hi>Brimston,</hi> (as the <hi>Flowers, Magiſtery,</hi> or <hi>Lac Bolſam, Tincture, Spi<g ref="char:EOLhyphen"/>rit, &amp;c.</hi>) are moſt effectuall in cureing <hi>Conſumptions.</hi> But it is as well known, that this <hi>Water</hi> is as inimicall to all perſons who have this Diſeaſe, or whoſe Bodies are in a diſpoſi<g ref="char:EOLhyphen"/>tion to take it: for it hath often poſted ſuch unto Eternity.</p>
+               <p>I doe therefore adhere to my own opinion, <hi>viz.</hi> that this <hi>Water</hi> is impregnat with the <hi>Sulphur</hi> of <hi>Antimony,</hi> which I have ſeparated from <hi>Antimony</hi> (in the reſublimation of its <hi>Cinnabar</hi>) and found it Yellow and inflamable as common <hi>Brimſton,</hi> &amp; to effect the Noſe<g ref="char:EOLhyphen"/>triles
+<pb n="11" facs="tcp:34666:15"/>(when inflamed) juſt as common <hi>Brimſton</hi> doth, by its vapour which aſcendeth from it, when it is inflamed.</p>
+               <p>If thoſe things had tymouſ<g ref="char:EOLhyphen"/>ly occured to me, I wold have inſerted them in the middle of <hi>pag.</hi> 60.</p>
+               <p>The <hi>Second</hi> is, Being infor<g ref="char:EOLhyphen"/>med, that an <hi>Engliſh-man</hi> did extract much <hi>Salt</hi> out of the <hi>Water</hi> and ſold it in great quan<g ref="char:EOLhyphen"/>tities, to all ſorts of perſons, to be drunk with the <hi>Water,</hi> in the Year 1669. I went thither, and eſſayed the operation, ex<g ref="char:EOLhyphen"/>tracting only the half of a drahm out of every <hi>Scottiſh</hi>-pynt. This <hi>Salt</hi> I found to be ſo ſharp, and attractive of the <hi>Air,</hi> that in <hi>Auguſt,</hi> it diſſolved into one of my pockets, tho
+<pb n="12" facs="tcp:34666:16"/>the <hi>Salt</hi> of <hi>Tartar</hi> (which is the moſt attractive of the <hi>Air,</hi> as yet known) did continue moſt dry in the other. When I re<g ref="char:EOLhyphen"/>turned home, I did fully diſ<g ref="char:EOLhyphen"/>ſolve it in water, and coagulat it again and am neceſſitated to keep it in a glaſs, as cloſs as I do my <hi>Potential Canters.</hi>
+               </p>
+               <p>As yet I have attempted no experiments with it, and doe wiſh that ſome, who have bet<g ref="char:EOLhyphen"/>ter opportunity, would do it, for the good of our Countrey.</p>
+               <p>Theſe words, I would have inſerted, <hi>pag.</hi> 82. immediatly before the uſe or the <hi>Water.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <head>SECTION III.</head>
+               <p>
+                  <hi>Thirdly,</hi> As to the uſe of <hi>Mace,</hi> in <hi>Meat</hi> or <hi>Drink,</hi> I
+<pb n="13" facs="tcp:34666:16"/>ſhall only give my advice, a<g ref="char:EOLhyphen"/>nent the manner of uſeing it; eſpecially ſeeing the moſt part do not only put themſelves to much needleſs expenſe for it, but alſo do abuſe it &amp; deprive themſelves of the moſt uſefull part thereof, <hi>viz</hi> its <hi>ſulphureous Oyle.</hi>
+               </p>
+               <p>The Vulgar uſe of this <hi>Spyce</hi> in the <hi>Kitchen,</hi> is either <hi>first,</hi> Boyling it amongſt <hi>Broth &amp;c. ſecondly,</hi> or pulveriſing it for <hi>Sauces</hi> and <hi>Drink.</hi>
+               </p>
+               <p>As to the <hi>firſt,</hi> It is the com<g ref="char:EOLhyphen"/>mon cuſtom, to put two or three pieces of whole <hi>Mace;</hi> amongſt the cold water, and to permit them to boyle all the time, that the <hi>Broth</hi> is a mak<g ref="char:EOLhyphen"/>ing, ſo that the ſpirituous and balſamick parts thereof, doe
+<pb n="14" facs="tcp:34666:17"/>(almoſt totally) vaporat with the vapor, which is conſtantly aſcending from the <hi>Broth,</hi> which retaineth but very little of its Taſte.</p>
+               <p>Were it not then greater fru<g ref="char:EOLhyphen"/>gality, when the <hi>Broth</hi> is fully boyled, to put in a leſſer quan<g ref="char:EOLhyphen"/>tity of the powder of <hi>Mace,</hi> which will impregnat more ſtrongly ere it be for the table if the pot be cloſly covered.</p>
+               <p>The reaſonableneſs of this advice will ſoon appear to any who underſtand how to make <hi>Ale.</hi> For, ſuch perſons doe not take the <hi>Malt,</hi> ere it be grinded to powder, and boyle it with the water, or infuſe it a<g ref="char:EOLhyphen"/>mongſt the warme water; the laſt whereof, if they ſhould doe they would waſte much <hi>Malt,</hi>
+                  <pb n="15" facs="tcp:34666:17"/>ere they made a little <hi>good- Ale.</hi> But there is far more reaſon of caution, in the uſe of <hi>Mace,</hi> ſee<g ref="char:EOLhyphen"/>ing its ſpirits are richer, and far more eaſily extracted, or fugat by heat.</p>
+               <p>The <hi>ſecond</hi> uſe of it, is pulve<g ref="char:EOLhyphen"/>riſing for <hi>Sauces</hi> and <hi>Drink,</hi> I muſt here alſo regrate, the too vulgar cuſtom of depriveing the <hi>Mace,</hi> of its forementioned ſpirituous <hi>Oyle,</hi> by drying of it, that it may be the more ea<g ref="char:EOLhyphen"/>ſily pulveriſed. The trueth whereof will be ſoon evident to any, who will be at the pains and expenſe, as to dry and pul<g ref="char:EOLhyphen"/>veriſe only a quarter of an ounce of <hi>Mace,</hi> and then put it up in a paper. At the ſame time pulveriſe alſe much un<g ref="char:EOLhyphen"/>dryed, and put it in another
+<pb n="16" facs="tcp:34666:18"/>paper. After a few houres, the laſt paper, will be ſound much more altered, and oyled, than the other.</p>
+               <p>That we are neceſſitated to dry <hi>Muſtard ſeeds,</hi> ere we can get them pulveriſed (other<g ref="char:EOLhyphen"/>wiſe you ſhall beat them into a Paſte, as if it were dough, and make their oyle, with the a<g ref="char:EOLhyphen"/>queous moiſture, diſſolveable amongſt water, as when we make <hi>Emulſions</hi> of the <hi>ſeeds</hi> cal<g ref="char:EOLhyphen"/>led <hi>cold, &amp;c.</hi>) is no argument, againſt what I have affirmed, ſeeing the Oylie ſpirits of the <hi>Mace,</hi> are much more volatile; than thoſe of the <hi>Muſtard-ſeeds.</hi>
+               </p>
+               <p>It were therefore expedient, to keep the pulveriſed <hi>Mace</hi> in a Box of <hi>Silver, Tin,</hi> or <hi>Wood,</hi> which would imbibe none, or
+<pb n="17" facs="tcp:34666:18"/>but little of its ſpiritous <hi>Oyle.</hi> The ſame advice may be aſſer<g ref="char:EOLhyphen"/>ted anent <hi>Muſtard,</hi> the powder whereof, in a few houres, will make paper tranſparent, as if it had been wet with <hi>Oyle.</hi>
+               </p>
+               <p>The <hi>Mace</hi> being thus prepa<g ref="char:EOLhyphen"/>red and preſerved, a very little warmth and in a ſuitable time, will make a ſmall quantity of it, communicat its ſpirits and taſte, to any liquor, uſed as <hi>Meat</hi> or <hi>Drinke.</hi>
+               </p>
+               <p>What hath been ſaid, being moſt probable, it would much conduce, to the health of ma<g ref="char:EOLhyphen"/>ny valetudinatie perſons, hav<g ref="char:EOLhyphen"/>ing weak Stomacks, <hi>&amp;c</hi> to im<g ref="char:EOLhyphen"/>pregnat their <hi>Ale</hi> or <hi>Beer,</hi> with the corroborating ſpirits of this <hi>Spyce,</hi> by putting hal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an ounce (more or leſs, or every
+<pb n="18" facs="tcp:34666:19"/>
+                  <hi>Scottiſh-Gallon</hi>) of its powder, into the Barrell; immediatly before the liquor be put into it.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECTION IV.</head>
+               <p>IN <hi>Medicin</hi> the <hi>Mace</hi> is made uſe of <hi>first,</hi> either intire as <hi>Nature</hi> framed it; that is, only reduceing it to powder, and not ſeparating any of its con<g ref="char:EOLhyphen"/>ſtituent parts from one another Or, <hi>ſecondly,</hi> it is uſed in its parts ſeparated. Theſe com<g ref="char:EOLhyphen"/>monly are, its <hi>Oyles,</hi> by <hi>expreſ<g ref="char:EOLhyphen"/>ſion</hi> [the externall uſe whereof is ſufficientlie well known] and <hi>distillation;</hi> and its <hi>Earth,</hi> which after the <hi>expreſsion</hi> of the <hi>Oyle,</hi> may be uſed by the poor, who are not able to buy the <hi>Mace</hi> it ſelf.</p>
+               <pb n="19" facs="tcp:34666:19"/>
+               <p>Intire <hi>Mace</hi> may be made uſe of, <hi>firſt,</hi> in a more ſimple way, or as <hi>Medicin</hi> it ſelf, <hi>ſe<g ref="char:EOLhyphen"/>condly,</hi> Or in a more compound manner, <hi>viz.</hi> with other <hi>Me<g ref="char:EOLhyphen"/>dicinal Simples.</hi>
+               </p>
+               <p>Internallie, I know no bet<g ref="char:EOLhyphen"/>ter corrobarater of the <hi>Stomack</hi> and <hi>Brain,</hi> to which its ſpirits are moſt refreſhing, when ex<g ref="char:EOLhyphen"/>tracted by infuſion, amongſt any convenient liquor. I uſe it moſt with <hi>Ale,</hi> taking alſe much of the powder, as will ly upon a large <hi>ſixpence,</hi> to eve<g ref="char:EOLhyphen"/>ry pound of the liquor; which alſo I ſweeten a little with <hi>Su<g ref="char:EOLhyphen"/>gar,</hi> and that in theſe caſes.</p>
+               <p>
+                  <hi>Firſt,</hi> If one have catched <hi>Cold,</hi> whereby a pain in the head, or breaſt (which are rare<g ref="char:EOLhyphen"/>ly ſeparat, in this condition)
+<pb n="20" facs="tcp:34666:20"/>and the <hi>Cough,</hi> are uſually oc<g ref="char:EOLhyphen"/>caſioned, a large draught [ta<g ref="char:EOLhyphen"/>ken with an empty <hi>Stomack</hi>] of good <hi>Ale</hi> thus prepared; will ordinarly occaſion a ſweat and ſleep; whereby the <hi>Ar<g ref="char:EOLhyphen"/>cheus fureus,</hi> or diſturbed <hi>Na<g ref="char:EOLhyphen"/>ture</hi> will immediatly be com<g ref="char:EOLhyphen"/>poſed, and the moleſting ſymp<g ref="char:EOLhyphen"/>toms abated after two or three <hi>Deſes</hi> (at moſt) taken very warme at night, or in the mor<g ref="char:EOLhyphen"/>ning, or both.</p>
+               <p>Many can teſtifie the trueth o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what I affirm, and doe ther<g ref="char:EOLhyphen"/>fore never go abroad to jour<g ref="char:EOLhyphen"/>ney, without this powder.</p>
+               <p>
+                  <hi>Secondly</hi> In <hi>Fevers, Pleuri<g ref="char:EOLhyphen"/>ſies, &amp;c.</hi> when there may be need to corrobort the <hi>Stomack,</hi> I doubt i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e be any <hi>Spyce,</hi> which may be ſo liberally (if
+<pb n="21" facs="tcp:34666:20"/>at all) uſed, as this for aroma<g ref="char:EOLhyphen"/>tifting of <hi>Ptiſans, Broths, &amp;c</hi>
+               </p>
+               <p>
+                  <hi>Thirdly.</hi> After the operati<g ref="char:EOLhyphen"/>on of a <hi>Vomitive</hi> [or <hi>purgative</hi>] <hi>Medicin,</hi> within one houre, I uſe to give to <hi>Patients</hi> this drink and to cauſe them go to bed, and ſleep two or three houres; after which, they uſed to be als well compoſed, as I have ſeen others (who got it not) the day after they had vomited.</p>
+               <p>
+                  <hi>Fourthly,</hi> In the beginning of <hi>Fluxes,</hi> with gripping of the <hi>Guts,</hi> there is no better <hi>Medicin</hi> then a draught of ſweet <hi>Whey,</hi> warmed with the ſame quanti<g ref="char:EOLhyphen"/>ty of <hi>Mace,</hi> and drink once or twice a day, for two or three dayes together.</p>
+               <p>
+                  <hi>Hermannus Vander Heyden,</hi> a Phyſician of <hi>Gaunt,</hi> hath writ<g ref="char:EOLhyphen"/>ten
+<pb n="22" facs="tcp:34666:21"/>a <hi>Treatiſe</hi> (called, <hi>Speedy help for Rich and Poor</hi>) the firſt part whereof, is touching the vertue of <hi>Whey,</hi> in the cure of the griping <hi>Flux</hi> and <hi>Dyſenterie</hi> which hath been printed in <hi>French Latin,</hi> and <hi>Engliſh.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> There is nothing [of this kind] better for the <hi>Stomack,</hi> than to mix a little of this powder, and a little <hi>Sugar,</hi> which a cold mornings draught.</p>
+               <p>Externally uſed, there is no ſuch <hi>Anodine</hi> of this nature.</p>
+               <p>
+                  <hi>Firſt,</hi> The warme infuſion of <hi>Mace,</hi> in <hi>Claret wine</hi> [which ought to be made ſtronger tha<g ref="char:cmbAbbrStroke">̄</g> for internall uſe] having a fourfold <hi>Linnen-cloath</hi> diped into it, and applyed to the Re<g ref="char:EOLhyphen"/>gion of the <hi>Splen,</hi> or <hi>Stomack,</hi> doeth ſoon eaſe the paines of
+<pb n="23" facs="tcp:34666:21"/>them. And a <hi>Clove</hi> or two be<g ref="char:EOLhyphen"/>ing added thereto, it will ope<g ref="char:EOLhyphen"/>rat the more ſtrongly.</p>
+               <p>
+                  <hi>Secondly,</hi> it eaſeth alſo the pai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, occaſioned by a <hi>Pleureſie;</hi> eſpecially if it be of the baſtard ſort, which is amongſt the <hi>In<g ref="char:EOLhyphen"/>tercoſtal-Muſcles.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly</hi> It is alſo very uſeful in <hi>Rheumatick-paines;</hi> which moſt frequently aſſault the <hi>Back,</hi> about or betwixt the <hi>Shoulders.</hi> But I muſt tell you, that I have often ſeen a little warme <hi>Salt,</hi> in a ſmall <hi>Linnen<g ref="char:EOLhyphen"/>cleath</hi> doe better; by attracting and imbibing much of the <hi>Se<g ref="char:EOLhyphen"/>roſity,</hi> affecting the <hi>Membrans;</hi> whereas the other doeth only diſcuſs, by corroborating the <hi>Animal ſpirits,</hi> which are the chief agent, in this operation.
+<pb n="24" facs="tcp:34666:22"/>I know a very honeſt <hi>Carpenter</hi> who will teſtifie the trueth of this; and who was alſo cured of the <hi>Sciatica,</hi> by bathing in the <hi>Sea;</hi> which diſeaſe he con<g ref="char:EOLhyphen"/>tracted, after intermitting this bathing for three years.</p>
+               <p>Seeing all are convinced of its uſefulneſs Internally uſed, for expelling of <hi>Wind</hi> or rather for ſtrengthning the <hi>Digeſtion,</hi> and ſo prohibiting the genera<g ref="char:EOLhyphen"/>tion of more, I hope none will controvect, the probabilitie of its eaſing of pain, from the ſame cauſe, when Externally applyed.</p>
+               <p>
+                  <hi>Fourthly,</hi> Then it muſt be a proper Ingredient for <hi>Epithems Cueuſa's,</hi> and <hi>Suffumigations,</hi> when needfull.</p>
+               <p>Before I proceed, I can not
+<pb n="25" facs="tcp:34666:22"/>but deſire the Ingenious to ob<g ref="char:EOLhyphen"/>ſerve, that when the powder of <hi>Mace</hi> is put amongſt the <hi>Ale,</hi> (which ought to be in a veſſell with a cloſs cover) the moſt part thereof ſwimeth above; and as the liquor warmeth, it gradually diſappeareth by fal<g ref="char:EOLhyphen"/>ling to the bottom. Dureing this operation, if you take the Stoupe from the fire, and looke into it, you will perceive the <hi>Atoms</hi> of the <hi>Mace,</hi> continual<g ref="char:EOLhyphen"/>ly aſcending from the bottom to the top or ſuperfice of the Liquor, and immediatly de<g ref="char:EOLhyphen"/>ſcending again, untill the Li<g ref="char:EOLhyphen"/>quor be fully ſaturat, with the ſpirituous and oylie parts; after which none of the powder ap<g ref="char:EOLhyphen"/>peareth above, which will come to paſs very near alſo
+<pb n="26" facs="tcp:34666:23"/>ſoon, as the Stoupe [being ſet by a little fire] ſhall become ſo hot, that one can only re<g ref="char:EOLhyphen"/>move it ſpeedily from the fire.</p>
+               <p>The conſideration of this, and the <hi>Obſervations</hi> following did perſwad me to believe, that as the <hi>World</hi> is circular in its <hi>fi<g ref="char:EOLhyphen"/>gure</hi> and <hi>motion,</hi> ſo alſo the moſt part of one <hi>motions</hi> therein (whether <hi>naturall</hi> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>artificial</hi>) are of the ſame nature.</p>
+               <p>As for the <hi>naturall</hi> doe we not daily perceive? <hi>firſt</hi> the circular motions of the <hi>coeleſti<g ref="char:EOLhyphen"/>al Lights</hi> round about us; or, ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s upon, and with the <hi>Earth,</hi> about ſome of them. And have not <hi>Astronomers</hi> demonſtrat<g ref="char:EOLhyphen"/>ed the motions of ſome of them round their own <hi>Centres. Secondly,</hi> The circulation of
+<pb n="27" facs="tcp:34666:23"/>
+                  <hi>Water</hi> in the <hi>Macrocoſm,</hi> accor<g ref="char:EOLhyphen"/>ding to <hi>Eccleſ.</hi> 1. <hi>All Rivers run into the Sea, yet the Sea is not ful; unto the place from whence the Rivers run thither they do return again. Thirdly,</hi> The circula<g ref="char:EOLhyphen"/>tion of <hi>Blood</hi> in the <hi>Microcoſm;</hi> and in the bodies of all crea<g ref="char:EOLhyphen"/>tures, which have it. <hi>Fourthly, Vapours</hi> aſcending from the <hi>Earth</hi> into the <hi>Air,</hi> and deſcen<g ref="char:EOLhyphen"/>ding again in <hi>Rain, Snow &amp;c.</hi>
+               </p>
+               <p>The <hi>artificiall metions</hi> alſo, we ſee to be, for the moſt part, circular [as in <hi>Clocks, Milns, Spinning-wheels, &amp;c.</hi>] and ſuch as are not, are either directed by a <hi>circular motion</hi> (as a <hi>Ship,</hi> by the <hi>circular motion</hi> of the <hi>Rudder</hi> upon its hinges; of the <hi>Cart</hi> in the <hi>Compaſs,</hi> upon the <hi>Prick;</hi> and of the celeſtiall-bo<g ref="char:EOLhyphen"/>dies)
+<pb n="28" facs="tcp:34666:24"/>or much facilitated and promoved, by one circular motion or other. Hence it is, that <hi>Chain-Pumps</hi> are moſt uſe<g ref="char:EOLhyphen"/>full in great <hi>Ships;</hi> and one <hi>Horſs</hi> will draw a greater <hi>weight</hi> upon a <hi>Cairt</hi> or <hi>Wagon,</hi> then u<g ref="char:EOLhyphen"/>pon a <hi>Slade.</hi> Moreover, whilſt the <hi>Weavers-ſhutle</hi> is moving in a ſtraight line, from the one ſide of the <hi>Web</hi> to the other, doeth not the <hi>Pirn</hi> move circu<g ref="char:EOLhyphen"/>larly within it? Finally <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the moſt difficult mechanical ope<g ref="char:EOLhyphen"/>rations, are moſt eaſily done, by inſtruments moving circu<g ref="char:EOLhyphen"/>larly; as is evident in the bore<g ref="char:EOLhyphen"/>ing of <hi>Mettals</hi> or <hi>Wood,</hi> with <hi>Drils</hi> and <hi>Wimbles,</hi> and the moe <hi>blocks</hi> that be upon a <hi>Ships tack<g ref="char:EOLhyphen"/>ling,</hi> the ſewer men will ſerve to load, or unload therewith.</p>
+               <pb n="29" facs="tcp:34666:24"/>
+               <p>The following <hi>Obſervations</hi> doe far her prove, the <hi>Artifi<g ref="char:EOLhyphen"/>cial motions</hi> to be <hi>circular</hi> [tho no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>ſph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rical</hi>] and very plea<g ref="char:EOLhyphen"/>ſant to behold.</p>
+               <p>
+                  <hi>Firſt</hi> Dureing the action of pure <hi>Aqua fortis</hi> upon crude <hi>Mereurie</hi> in a tra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rent <hi>Glaſs,</hi> you will clearly perceive, the continual <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſcent and deſcent of the <hi>Mercurial-Atoms,</hi> betwixt the ſuperfice and bottom of the Laquor, untill it be fully ſat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at with them.</p>
+               <p>
+                  <hi>Secondly</hi> I did lately obſerve this circular motion, whilſt the well defecat <hi>juice</hi> of <hi>Limons,</hi> was diſſolving very <hi>red</hi> &amp; fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Coral;</hi> which being totally robed of its <hi>redneſs</hi> [as the <hi>juice</hi> of its <hi>Aciditie</hi>] the <hi>Atoms</hi> re<g ref="char:EOLhyphen"/>maining, were almoſt alſo
+<pb n="30" facs="tcp:34666:25"/>white as this <hi>Paper.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Dureing the ope<g ref="char:EOLhyphen"/>ration of the <hi>Acidum Vitrioli</hi> [wherewith I mixed ſome <hi>Bo<g ref="char:EOLhyphen"/>rage</hi> water] upon the <hi>Limatura Chalybis,</hi> in making the <hi>Vitrio<g ref="char:EOLhyphen"/>lum Martis</hi> [commonly called <hi>Sal-Chalybts</hi>] there is no doubt, the ſame circular motio<g ref="char:cmbAbbrStroke">̄</g> which tho it cannot be diſcerned, be<g ref="char:EOLhyphen"/>cauſe of the opacitie of the Li<g ref="char:EOLhyphen"/>quors, yet may be concluded, from alſe pleaſant and conſide<g ref="char:EOLhyphen"/>rable a motion, which is this. When theſe Liquors are affuſ<g ref="char:EOLhyphen"/>ed to the <hi>limatura,</hi> there ariſeth immediatly ſuch a heat and e<g ref="char:EOLhyphen"/>bullition, that it there be not near three parts of four empty, they will boyle over upon the Table. This ebullition conci<g ref="char:EOLhyphen"/>nueth but a little, and the Li<g ref="char:EOLhyphen"/>quor
+<pb n="31" facs="tcp:34666:25"/>no ſooner ſetleth, than in<g ref="char:EOLhyphen"/>numerable <hi>Aqueous Atoms,</hi> do conſtantly aſcend two or three inches above its ſuperfice, to which they deſcend again. If this operation be done in a <hi>Cup<g ref="char:EOLhyphen"/>ping glaſs</hi> (as I uſe to doe it) many of thoſe <hi>Atoms</hi> (whoſe taſte doth demonſtrat them to be impregnat with the <hi>Atoms</hi> of the <hi>Chalybs</hi>) will fall upon the outſide of the glaſs, where they will lye like <hi>dew</hi> in a <hi>Sum<g ref="char:EOLhyphen"/>mers</hi> morning. The action of the <hi>Menſtruum</hi> being ended, this pleaſant ſhower ceaſeth.</p>
+               <p>Were it not better for <hi>Pro<g ref="char:EOLhyphen"/>feſſors</hi> of <hi>Philoſophy</hi> to pry into ſuch <hi>Experiments</hi> wherby they might be prompted with ex<g ref="char:EOLhyphen"/>cellent notions and arguments, relative to <hi>Matter</hi> and <hi>Motion,</hi>
+                  <pb n="32" facs="tcp:34666:26"/>than to ſpend ſo much time, u<g ref="char:EOLhyphen"/>pon <hi>Ens rationis univerſale &amp;c.</hi> which can never be uſefull in <hi>Medicin</hi> (ſave to make a man <hi>Hypochondriack,</hi> and ſo neceſſi<g ref="char:EOLhyphen"/>tous thereof) or <hi>Mechaniciſm,</hi> ſo as to gain one <hi>penny</hi> thereby</p>
+               <p>Many ſuch <hi>Curioſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies</hi> have been little noticed by many <hi>Artiſts</hi> who like covetous and ignorant <hi>Travellers,</hi> to the <hi>City</hi> where they expect moſt gain, take no notice, of much more pleaſant places, in their jurney; and intending only the pur<g ref="char:EOLhyphen"/>chaſing of coyned <hi>money,</hi> doe often overlook alſe good ly<g ref="char:EOLhyphen"/>ing in ſome ſmall <hi>Springs;</hi> and far leſs make it their buſineſs, to ſearch for the <hi>Mines</hi> them<g ref="char:EOLhyphen"/>ſelves. The truth of this, is fully demonſtrated to any, who
+<pb n="33" facs="tcp:34666:26"/>will peruſe the moſt ingenious and learned <hi>Phyſic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Theological conſiderations, about the poſsibili<g ref="char:EOLhyphen"/>tie of the Reſurrection:</hi> written by the <hi>Honorable Robert Boyle;</hi> wherein, by ſuch <hi>Curioſities,</hi> by him accuratly noticed, he de<g ref="char:EOLhyphen"/>monſtrateth, the poſſibility of that great <hi>Article</hi> of our <hi>Chri<g ref="char:EOLhyphen"/>ſtian faith</hi> viz. <hi>The Reſurrection of the dead at the great day of ge<g ref="char:EOLhyphen"/>neral judgment;</hi> for the further confirmation of which, we may alſo conſider the foremen<g ref="char:EOLhyphen"/>tioned <hi>circular motion,</hi> in rela<g ref="char:EOLhyphen"/>tion to our own Bodies and Soules.</p>
+               <p>Seeing it is undenyable that we cam from the <hi>Earth,</hi> and do daily return unto it by <hi>death;</hi> and that our <hi>ſpirits</hi> doe then re<g ref="char:EOLhyphen"/>turn to God who gave them;
+<pb n="34" facs="tcp:34666:27"/>Why ſhould any rational crea<g ref="char:EOLhyphen"/>ture doubt? of the Soul its re<g ref="char:EOLhyphen"/>turning unto the Body, its old habitation; or of the return of both to God for ever; ſeeing he, who is Almighty, hath gi<g ref="char:EOLhyphen"/>ven his Word for it.</p>
+               <p>I ſhall conclude this part of this Section, with regrateing the cuſtom of many, who get<g ref="char:EOLhyphen"/>ing <hi>Wine,</hi> that is decayed in its <hi>colour</hi> and <hi>taste,</hi> and conſe<g ref="char:EOLhyphen"/>quently, as to its <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> by burning it with <hi>Mace, Cloves, &amp;c.</hi> they exhauſt the moſt part of its remaining <hi>ſpi<g ref="char:EOLhyphen"/>rits</hi> and the beſt of thoſe in the <hi>Spyces</hi> and hen drink the worſt of both. For when the <hi>ſpirits,</hi> are by diſtillation ſeparated from the beſt of <hi>Wines,</hi> that which remaineth in the <hi>Still,</hi>
+                  <pb n="35" facs="tcp:34666:27"/>is liker to freſh <hi>Vrine,</hi> than to any other liquor.</p>
+               <p>It were then much better, only to infuſe thoſe <hi>Spyces</hi> in ſuch <hi>Wine,</hi> and by all means to retain the remaing <hi>ſpirits,</hi> by the cloſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs of the veſſel.</p>
+               <p>
+                  <hi>Secondly Mace</hi> is <hi>medicinal<g ref="char:EOLhyphen"/>ly</hi> made uſe of, in a more <hi>com<g ref="char:EOLhyphen"/>pound way</hi> and that either <hi>intire</hi> or <hi>in its parts.</hi>
+               </p>
+               <p>
+                  <hi>Firſt Intire</hi> as a moſt ex<g ref="char:EOLhyphen"/>cellent corrective of all <hi>Purga<g ref="char:EOLhyphen"/>tives;</hi> or mixed with other <hi>A<g ref="char:EOLhyphen"/>romaticks</hi> in a omaticall <hi>Pow<g ref="char:EOLhyphen"/>ders Tablets. Electuaries,</hi> or <hi>Spirits.</hi>
+               </p>
+               <p>
+                  <hi>Secondly In its parts</hi> and that either <hi>Internally</hi> or <hi>Externally.</hi>
+               </p>
+               <p>
+                  <hi>Internally</hi> there is no better <hi>Oyle,</hi> for mixing with <hi>Stoma<g ref="char:EOLhyphen"/>chick, Cephalick,</hi> or <hi>Splenetick
+<pb n="36" facs="tcp:34666:28"/>Piles &amp;c</hi> than is its <hi>liquide.</hi>
+               </p>
+               <p>Then what an excellent <hi>E<g ref="char:EOLhyphen"/>lixir</hi> muſt it make, when aſſo<g ref="char:EOLhyphen"/>cia <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a convenient <hi>Menſtruum</hi> which could ſpeedily uſher it, into the <hi>Archeal Court,</hi> &amp; make its addreſs, to all the noble <hi>A<g ref="char:EOLhyphen"/>nimal ſpirits,</hi> whoſe <hi>loyal</hi> and <hi>peaceable Actions</hi> it would che<g ref="char:EOLhyphen"/>riſh, and compeſce their <hi>inteſ<g ref="char:EOLhyphen"/>tin Commotions.</hi>
+               </p>
+               <p>
+                  <hi>Externally</hi> the <hi>Oyle by expreſ<g ref="char:EOLhyphen"/>ſion</hi> being ſo uſefull, no doubt a <hi>Balſam</hi> made of it, and the <hi>Li<g ref="char:EOLhyphen"/>quide,</hi> muſt be much more ef<g ref="char:EOLhyphen"/>fectual.</p>
+               <p>When any ſuch <hi>Medicin</hi> is made uſe of, it ought to be done after <hi>friction</hi> with a <hi>warm cloath,</hi> near to the <hi>fire;</hi> in the doing of which, there are two <hi>vulgar errors,</hi> very prejudicial
+<pb n="37" facs="tcp:34666:28"/>to be forſaken.</p>
+               <p>
+                  <hi>Firſt,</hi> The <hi>rubing</hi> of the <hi>Legs</hi> or <hi>Armes down wards:</hi> for thus moe <hi>humors</hi> are drawn from the <hi>Body</hi> to thoſe <hi>Members</hi> (af<g ref="char:EOLhyphen"/>fected with <hi>pain</hi>) which have no way to evacuat them, but by the <hi>pores</hi> of the <hi>Skin</hi> in <hi>ſwea<g ref="char:EOLhyphen"/>ting;</hi> whereas, when they are by <hi>friction</hi> forced to retire to the <hi>Cavities,</hi> they may be eva<g ref="char:EOLhyphen"/>cuated by <hi>Vomite, Stool Vrine, Spiting Sweating &amp;c</hi> or con<g ref="char:EOLhyphen"/>ſumed by the <hi>concoction</hi> of the greater <hi>natural heat,</hi> there re<g ref="char:EOLhyphen"/>ſiding.</p>
+               <p>
+                  <hi>Secondly,</hi> In ſuch caſes, peo<g ref="char:EOLhyphen"/>ple doe ordinarly mix <hi>Brandie,</hi> or <hi>Aqua-vitae,</hi> with unctuous ſubſtances (as the <hi>Greaſe</hi> of <hi>Harts, Capons, &amp;c.</hi>) and hav<g ref="char:EOLhyphen"/>ing melted them with a little
+<pb n="38" facs="tcp:34666:29"/>heat, by ſtiring they eſſay the mixing of them [but to no pur<g ref="char:EOLhyphen"/>poſe] and then doe anoynt the place affected with any <hi>Pain.</hi> But it were better, firſt to rub with the <hi>Brandie</hi> (that what the <hi>Skin</hi> will imbibe of it, it may doe it without any lett) and then the <hi>Skin</hi> being dryed, a<g ref="char:EOLhyphen"/>noynt with the <hi>Greaſe,</hi> or <hi>Oyles:</hi> for theſe two bodies, will not mix, as <hi>Wine</hi> and <hi>Water;</hi> ſo that where the unctuous ſubſtance lighteth firſt, the <hi>Brandie</hi> can not get entrance.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECTION V.</head>
+               <p>IN the Fifth place, I ſhall take notice of the <hi>Signature</hi> of the <hi>Mace,</hi> whereby I ſhall have
+<pb n="39" facs="tcp:34666:29"/>occaſion, to hint at the <hi>Signa<g ref="char:EOLhyphen"/>tures</hi> of ſeveral other <hi>Simples,</hi> heretofore not noticed.</p>
+               <p>And becauſe I know no <hi>Trea<g ref="char:EOLhyphen"/>tiſe,</hi> in our <hi>Language,</hi> concer<g ref="char:EOLhyphen"/>ning the <hi>Signatures</hi> of <hi>Simples,</hi> I ſhal firſt crave liberty, to give a little hint thereof, out of the two moſt famous <hi>Authors,</hi> who have written expreſly, concer<g ref="char:EOLhyphen"/>ning that affair, and that in ve<g ref="char:EOLhyphen"/>ry few words. Becauſe it is a moſt hatefull thing, to reſcribe and reprint, other mens <hi>Notions</hi> but in ſo far as there is an abſo<g ref="char:EOLhyphen"/>lute neceſſity ſo to doe, that what a man is about the doing of himſelf, may be the better underſtood by others. As is the citation of <hi>Euclide,</hi> his <hi>Pro<g ref="char:EOLhyphen"/>poſitions,</hi> by a demonſtrating <hi>Mathematician;</hi> or of <hi>Legall
+<pb n="40" facs="tcp:34666:30"/>Maxims,</hi> by a <hi>Barreſter,</hi> or <hi>Ad<g ref="char:EOLhyphen"/>vocat.</hi>
+               </p>
+               <p>As the ſweet ſinger of <hi>Iſrael</hi> ſaid, <hi>Pſal</hi> 19.1. <hi>The Heavens declare the glory of God and the Firmament ſheweth his handie<g ref="char:EOLhyphen"/>work;</hi> ſo did the old <hi>Poet</hi> ex<g ref="char:EOLhyphen"/>preſs the ſame thus,
+<q>Praſentemque refert qualibet herba Deum.</q>
+               </p>
+               <p>And the famous <hi>Glauber,</hi> in the 1. <hi>page</hi> of his <hi>Treatiſe de ſig<g ref="char:EOLhyphen"/>natura Salium,</hi> writeth thus, <hi>The Omnipotent God, hath put upon all his Creaturs great and ſmall, his certain marks, and as it were, ſet painted Lineaments, before the eyes of men from which they may know what is the nature and property of every one and what profit and advantage they may or can confer upon mankind.</hi>
+               </p>
+               <pb n="41" facs="tcp:34666:30"/>
+               <p>
+                  <hi>But this divine writing, by the divine finger is drawn upon every thing, that frrom it we might learn the nature of all things.</hi>
+               </p>
+               <p>And <hi>Oſwaldus Crollius,</hi> in his <hi>Epiſtle Nuncupatorie,</hi> prefixed to his <hi>Treatiſe,</hi> concerning the internall <hi>Signatures</hi> of things, calleth it, <hi>A Garden furniſhed, appointed, and adorned with most beautifull Simples, exhibiting &amp; repreſenting in a moſt pleaſant ſpestacle, from the innate ſigna<g ref="char:EOLhyphen"/>ture, the most wonderfull harme<g ref="char:EOLhyphen"/>nie and correſpondence with the members of our bodie.</hi>
+               </p>
+               <p>I ſhall only ſet down a few of his <hi>Instances,</hi> which will ful<g ref="char:EOLhyphen"/>ly anſwere my preſent deſign.</p>
+               <p>He begins with the <hi>Head,</hi> ſhewing why ſuch and ſuch things are to be made uſe of,
+<pb n="42" facs="tcp:34666:31"/>for cureing its diſtempers; As,</p>
+               <p>
+                  <hi>Firſt, The Chesbow with a Crown, (viz.</hi> after the flowres are fal'n) <hi>repreſenteth the Head and Brain: therefore its decoction is profitably given in many diſtem<g ref="char:EOLhyphen"/>pers of the Head.</hi>
+               </p>
+               <p>Then the ſeeds of <hi>Cicer A<g ref="char:EOLhyphen"/>rietinum</hi> [which more exactly repreſent the <hi>Head</hi> of a <hi>Ram</hi>] muſt be good for the <hi>Deſeaſe,</hi> wherwith <hi>Sheep</hi> are much trou<g ref="char:EOLhyphen"/>bled, <hi>viz.</hi> the <hi>Rot,</hi> which is in them a <hi>Hydropſie.</hi> And they are by <hi>Botaniſts</hi> reckoned amongſt <hi>Diureticks</hi> (that is, <hi>Provockers of Vrinet</hi>) which are proper for that <hi>Diſeaſe,</hi> in <hi>Man</hi> or <hi>Beast,</hi> for the like reaſon, <hi>Perſicaria maculata,</hi> muſt be an excellent <hi>Antiſcorbutick,</hi> its <hi>ſpots</hi> being of the ſame colour, with thoſe
+<pb n="43" facs="tcp:34666:31"/>that affect the <hi>Legs</hi> and <hi>Armes</hi> of <hi>Scorbutick</hi> perſons.</p>
+               <p>
+                  <hi>Secondly, Wal-nuts, have the intire ſignature of the Head their exteriour Bark, or herbaceous co<g ref="char:EOLhyphen"/>vering, of the Pericranium, wher<g ref="char:EOLhyphen"/>fore the ſalt of the barks, is ſingu<g ref="char:EOLhyphen"/>lar for wounds of the Pericranium</hi>
+               </p>
+               <p>
+                  <hi>The inner, harder, or woodie bark or ſhell, of the Soul.</hi>
+               </p>
+               <p>
+                  <hi>The Membran ſurrounding the Kernel, of the Meninges, and Membrans of the Brain.</hi>
+               </p>
+               <p>
+                  <hi>The Kernell hath the figure of the Brain it ſelf.</hi>
+               </p>
+               <p>I ſhall take liberty to add, that rather the <hi>woodie Membran,</hi> divideing the <hi>Kernel</hi> in ſeveral places, reſembleth the <hi>Dura-Mater,</hi> which divideth the <hi>Ce<g ref="char:EOLhyphen"/>rebellum</hi> from the <hi>Brain,</hi> and this in two parts, by the <hi>Falx,</hi>
+                  <pb n="44" facs="tcp:34666:32"/>which is nothing but a pro<g ref="char:EOLhyphen"/>duction of the <hi>Dura-mater,</hi> and that the forementioned <hi>Mem<g ref="char:EOLhyphen"/>bran</hi> (which is very thin) cor<g ref="char:EOLhyphen"/>reſpondeth the <hi>Pia-mater.</hi>
+               </p>
+               <p>
+                  <hi>Therefore it is good for the Brain, and hebetateth poyſons. The Kernel beaten, if it be moiſt<g ref="char:EOLhyphen"/>ned with the quinteſſence of Wine it doeth powerfully comfort the Brain and Head.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, Pag.</hi> 47. <hi>Calamus Aromaticus and Caſsia Fistula, for the Inteſtines, to which they are very like.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, Pag</hi> 52. <hi>The per<g ref="char:EOLhyphen"/>forated leaves of St. Iohn's Woort have a ſignature; they take away the obſtruction of the Pores of the Skin, and force ſweat.</hi> And <hi>pag.</hi> 70. <hi>The perforated leaves are good for all externall and internal
+<pb n="45" facs="tcp:34666:32"/>hurts of the Skin. And becauſe its flowers alſo after putrefaction doe go away informe of blood they ſhew a peculiar uſe for wounds.</hi>
+               </p>
+               <p>I can not but admite, that he mentioneth not the <hi>Fungus Sambuci,</hi> which moſt exactly repreſenteth the <hi>Ear</hi> of a <hi>Man;</hi> wherefore it is ordinarly cal<g ref="char:EOLhyphen"/>led <hi>Auricula Iudae,</hi> or <hi>Indas his Ear.</hi> Neither the <hi>Accorn,</hi> re<g ref="char:EOLhyphen"/>preſenting the <hi>Vvula;</hi> but ra<g ref="char:EOLhyphen"/>ther the <hi>Penis,</hi> whoſe <hi>Praputi<g ref="char:EOLhyphen"/>um</hi> its <hi>Cupula</hi> reſembleth very much, as the <hi>Accorn</hi> doeth the <hi>Glans.</hi> However, it may be made uſe of for the diſtempers of both theſe members, when they need <hi>Astringents.</hi>
+               </p>
+               <p>I ſhall now ſet down his O<g ref="char:EOLhyphen"/>pinion, concerning the <hi>Signa<g ref="char:EOLhyphen"/>ture</hi> of the <hi>Mace,</hi> which maketh
+<pb n="46" facs="tcp:34666:33"/>the <hi>fifth</hi> &amp; laſt Inſtance, which I have excerped from him.</p>
+               <p>
+                  <hi>Fifthly, Pag.</hi> 51. <hi>Mace alſo reſembleth the Signature of the Womb: for the Mace containeth the Nutmeg (the Signature of the Child in the Womb) as the Womb the Conception or Embrio.</hi>
+               </p>
+               <p>Having in the <hi>firſt Section</hi> gi<g ref="char:EOLhyphen"/>ven a deſcription of the <hi>Mace</hi> and <hi>Nutmeg,</hi> I ſhall here offer my opinion, as to the <hi>Signature</hi> of both. And ſeeing all reſem<g ref="char:EOLhyphen"/>blances of this nature, are not to be expected exact, as to eve<g ref="char:EOLhyphen"/>ry part (for <hi>Omnis ſimilitude claudicat</hi>) I hope the Ingenu<g ref="char:EOLhyphen"/>ous will cenſure it little.</p>
+               <p>I thinke then, that the exte<g ref="char:EOLhyphen"/>rior green and groſs <hi>Husk</hi> con<g ref="char:EOLhyphen"/>taining the <hi>Mace</hi> and <hi>Nutmeg,</hi> reſembleth the <hi>Muſculous skin</hi>
+                  <pb n="47" facs="tcp:34666:33"/>of the <hi>Head,</hi> the <hi>Mace</hi> is like the <hi>Pericranium,</hi> the hard <hi>ſhell</hi> is like the <hi>Scul,</hi> and the <hi>Nutmeg</hi> repreſenteth the <hi>Brain</hi> it ſelf, moſt exactly; as will appear to any, who will but ſcrape off a little thereof with a <hi>knife:</hi> for it is white, mixed with turning and winding blackiſh diviſions as is the <hi>Brain,</hi> whoſe upper part is called <hi>Varicous,</hi> becauſe of them.</p>
+               <p>The trueth of this may pro<g ref="char:EOLhyphen"/>bably appear to any, who will [after <hi>Dr. Nehemiah Grew</hi> his method] Anatomiſe thoſe <hi>Sim<g ref="char:EOLhyphen"/>ples,</hi> with the help of <hi>Microſcops</hi> and poſſibly in the groſs <hi>Husk,</hi> there may be found different parts reſembling the <hi>Muſcu<g ref="char:EOLhyphen"/>lous ſkin:</hi> and within the <hi>ſhell,</hi> ſome things like the <hi>Meninges.</hi>
+               </p>
+               <pb n="48" facs="tcp:34666:34"/>
+               <p>However <hi>Schroder</hi> his fore<g ref="char:EOLhyphen"/>cited account of the <hi>Vertues</hi> of both, doth quadrat much with both theſe opinions of the <hi>Sig<g ref="char:EOLhyphen"/>nature,</hi> I can not but add, that I am experimentally convin<g ref="char:EOLhyphen"/>ced, that when the <hi>Stomack,</hi> be<g ref="char:EOLhyphen"/>ing oppreſſed with <hi>Bilious</hi> and <hi>Acida Humors</hi> cauſeth a great pain in the <hi>Head,</hi> by affecting the <hi>Meninges</hi> and <hi>Pericranium</hi> (of the realitie of which I have no doubt, but only of the man<g ref="char:EOLhyphen"/>ner how it cometh to paſs) af<g ref="char:EOLhyphen"/>ter vomiting thoſe <hi>Humors,</hi> the infuſion of <hi>Mace</hi> being drunk, will more ſpeedily and effectu<g ref="char:EOLhyphen"/>ally eaſe the pain, than that of the <hi>Nutmeg.</hi>
+               </p>
+               <p>I ſhall not deny that there is much trueth in thoſe words of <hi>Glauber</hi> and <hi>Crolliut in Theſi,</hi>
+                  <pb n="49" facs="tcp:34666:34"/>nor controvert <hi>Crolli'</hi> his fore<g ref="char:EOLhyphen"/>cited hypotheticall <hi>inſtances,</hi> or any other of them. Yet I doe not think thoſe <hi>Signaturs,</hi> the only or chief mean, by which <hi>Man</hi> hath acquired the know<g ref="char:EOLhyphen"/>ledge of the uſefulneſs of na<g ref="char:EOLhyphen"/>turall <hi>Concrets</hi> or <hi>Simples</hi> (whe<g ref="char:EOLhyphen"/>ther <hi>Mineral, Vegetable,</hi> or <hi>A<g ref="char:EOLhyphen"/>nimal</hi>) for preſerving his own body (or his <hi>Beaſts</hi>) in health, or reſtoring it to health, when impaired: becauſe there are two other, <hi>viz. Revelation</hi> and <hi>Imitation.</hi>
+               </p>
+               <p>The firſt is demonſtrate by the Prophet <hi>Iſaiah</hi> his advice, [2. <hi>Kings</hi> 20.7.] concerning <hi>the application of a lump of figs, to Hezekiah his Boyl.</hi>
+               </p>
+               <p>If it ſhould be alleadged, that the <hi>Prophet</hi> did give this advice
+<pb n="50" facs="tcp:34666:35"/>according to his knowledge of the doctrine of <hi>Signaturs</hi> (a <hi>fig</hi> repreſenting a <hi>Tumor</hi> of that nature) I ſhall not deny it. But it being impoſſible, from the ſaid <hi>Doctrin,</hi> to give a reaſon for the many known <hi>vertues</hi> of many <hi>Simples,</hi> we muſt in the firſt place own Gods revealing them, as the cauſe of our know<g ref="char:EOLhyphen"/>ledge of them.</p>
+               <p>Who could ever, according to the <hi>Signaturs,</hi> give a reaſon why (or have diſcovered, that) <hi>Antimonie</hi> is <hi>Vomitive Purga<g ref="char:EOLhyphen"/>tive,</hi> and <hi>Diaphoretick;</hi> ſeeing none of theſe faculties doe pro<g ref="char:EOLhyphen"/>ceed from it, when uſed as <hi>Na<g ref="char:EOLhyphen"/>ture</hi> framed it, but after it hath daunced, once twice, or thrice upon <hi>Vulcan's</hi> ſtage, in <hi>Nator's</hi> armes. Or, that one ounce of
+<pb n="51" facs="tcp:34666:35"/>a <hi>Medicin</hi> made of it ſhould for many years, continue to im<g ref="char:EOLhyphen"/>pregnat the frequently affuſed <hi>Menſtruums,</hi> without any ſen<g ref="char:EOLhyphen"/>ſible diminution of its <hi>quantity, weight,</hi> or <hi>colour;</hi> which I affirm becauſe I have had theſe 19 years, ſuch a one; of which I may ſay as of the <hi>Memorie, ex<g ref="char:EOLhyphen"/>colendo augetur:</hi> for theſe ſeven years bygon it never failed, to enervat the <hi>Tertian-Aguiſh ferment,</hi> at the very firſt exhibi<g ref="char:EOLhyphen"/>tion of it. Or, that the diſtil<g ref="char:EOLhyphen"/>ed <hi>Oyle</hi> of our <hi>Lithanthrax,</hi> is a good <hi>Antipodagrick Medicin,</hi> either alone, or mixed with o<g ref="char:EOLhyphen"/>thers; and that its <hi>Acide ſpirit,</hi> is a moſt excellent <hi>Anodine</hi> for <hi>Luxated Ioints,</hi> when mixed with an emollient and anodine <hi>Decoction,</hi> than which I know
+<pb n="52" facs="tcp:34666:36"/>no better <hi>Fomentation,</hi> in this caſe. If I had diſcovered this ſooner, I would have inſerted it, in my little <hi>Treatiſe,</hi> con<g ref="char:EOLhyphen"/>cerning the <hi>Oyly Well at Lib<g ref="char:EOLhyphen"/>berton.</hi>
+               </p>
+               <p>
+                  <hi>God</hi> hath revealed ſuch things unto <hi>Man,</hi> two ſeverall wayes.</p>
+               <p>
+                  <hi>Firſt,</hi> In a more <hi>extraordi<g ref="char:EOLhyphen"/>narie</hi> way,</p>
+               <p>Thither may be reduced, <hi>Firſt,</hi> what we read in the holy <hi>Scripturs;</hi> as the forementio<g ref="char:EOLhyphen"/>ned inſtance of the <hi>Figs;</hi> and that with greater prabability, than to the <hi>Signature:</hi> ſeeing at the ſame time, the prolonga<g ref="char:EOLhyphen"/>tion of the <hi>Kings</hi> life, was alſo revealed unto, [and intimat<g ref="char:EOLhyphen"/>ed by] the <hi>Prophet.</hi> No doubt alſo, the qualifications of <hi>Iubal</hi> and <hi>Tubal Cain (Gen.</hi> 4. in the
+<pb n="53" facs="tcp:34666:36"/>
+                  <hi>Worlds</hi> infancie) for <hi>Inventing and inſtructing in Muſick, and working in Braſs and Iron,</hi> and the skill of thoſe who did build <hi>Noah's Ark,</hi> as alſo the know<g ref="char:EOLhyphen"/>ledge of <hi>Bezaliel</hi> and <hi>Acholiab</hi> [<hi>Exodus</hi> 15.] <hi>For making any manner of cunning work,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>lomon</hi> his knowledge, whereby <hi>he ſpake of Trees from the Cedar in Lebanon, even unto the Hyſop; that ſpringeth out of the Wall &amp;c</hi> (1. <hi>Kings</hi> 4.) were of the ſame nature.</p>
+               <p>
+                  <hi>Secondly.</hi> The following, or like ſtorie, may be comprehen<g ref="char:EOLhyphen"/>ded here alſo.</p>
+               <p>I was informed, by a very honorable and worthie <hi>Lady</hi> (in this ſame <hi>Countrie</hi>) who li<g ref="char:EOLhyphen"/>ving in her <hi>Grand fathers</hi> houſe in the <hi>Harveſt,</hi> one of the <hi>maids</hi>
+                  <pb n="54" facs="tcp:34666:37"/>being very warme, with cut<g ref="char:EOLhyphen"/>ting down <hi>Cornes,</hi> when dinner was brought to her, and to the reſt, ſhe did take a large draught of ſmall <hi>Ale,</hi> which immediat<g ref="char:EOLhyphen"/>ly occaſioned a giddines in her head, and neceſſitated her to ly down upon the ridge, with her hands beneath her brow. The reſt having dyned, ſhe was not able to open her <hi>Eyes,</hi> which perceived no object, whe<g ref="char:cmbAbbrStroke">̄</g> they were opened to her by others, altho they had no blemiſh per<g ref="char:EOLhyphen"/>ceptible, more than when ſhe was in perfect health. She be<g ref="char:EOLhyphen"/>ing carried home, was preſent<g ref="char:EOLhyphen"/>ly bled in the <hi>Arme,</hi> and <hi>Phyſi<g ref="char:EOLhyphen"/>cians</hi> (who affirmed her to have the <hi>Gutta ſerena,</hi> which is <hi>an ob<g ref="char:EOLhyphen"/>struction in the Optick Nerve</hi>) being employed, ſhe was often
+<pb n="55" facs="tcp:34666:37"/>
+                  <hi>Purged,</hi> and <hi>Ventoſed</hi> in 14 days time, but to no purpoſe. When all hope of recoverie was gone, about a moneth (all which time; ſhe could not open her <hi>Eyes,</hi> without the help of o<g ref="char:EOLhyphen"/>thers) after ſhe contracted the diſtemper, and had reſolved to quyte her ſervice, in the night time ſhe dreamed, <hi>That one did beat raw Onions in a morter, and did apply them to her Eyes, and that ſhe recovered her ſight.</hi> The next morning, ſhe having told this to the <hi>Ladyes Waiting, maid</hi> (who perſwaded her, that ſhe could not be the worſe to try it) the application was tryed at night, with one of her <hi>Eyes.</hi> which the next morning ſhe was able to open; and there<g ref="char:EOLhyphen"/>with perceived <hi>Day-light.</hi> So
+<pb n="56" facs="tcp:34666:38"/>the next night, they did beat many, and applyed them to both her <hi>Eyes,</hi> which by this Remedie only, did the next morning, recover their former health.</p>
+               <p>The reaſon of this effect, I conceive to have been; that ſee<g ref="char:EOLhyphen"/>ing the <hi>Eyes</hi> doe water much, upon the approximation of <hi>O<g ref="char:EOLhyphen"/>nions,</hi> from which (as from the <hi>Horſs-Radiſh,</hi> prepared <hi>Muſtard, &amp;c.</hi>) there are perpetuall <hi>efflu<g ref="char:EOLhyphen"/>via's</hi> of ſharp and ſpirituous <hi>A<g ref="char:EOLhyphen"/>toms,</hi> which occaſion the <hi>humors</hi> within, to contract a brisk mo<g ref="char:EOLhyphen"/>tion, whereby the little matter obſtructing the <hi>Nerve,</hi> as by a <hi>Torrent,</hi> was removed from that place, where it had fixed it ſelf; as when a <hi>Bridge</hi> or <hi>Dam,</hi> is o<g ref="char:EOLhyphen"/>verturned by the violence of <hi>Water.</hi>
+               </p>
+               <pb n="57" facs="tcp:34666:38"/>
+               <p>Yet in this caſe, none would adventure to uſe prepared <hi>Mu<g ref="char:EOLhyphen"/>ſtard ſeeds</hi> (than which there is no better <hi>Medicin,</hi> for ſeveral <hi>cutaneous diſtempers</hi>) becauſe their <hi>effluvia's</hi> are for the moſt part <hi>ſulphureous</hi> &amp; conſequent<g ref="char:EOLhyphen"/>ly much more inflaming, and ſo would occaſion an <hi>Ophthalmia;</hi> whereas thoſe of the <hi>Onion,</hi> are more <hi>ſaline,</hi> and only <hi>deobſtru<g ref="char:EOLhyphen"/>ent,</hi> and [as all <hi>Acides</hi>] coole<g ref="char:EOLhyphen"/>ing; the trueth of which <hi>Para<g ref="char:EOLhyphen"/>dex,</hi> may thus be evinced, to any intelligent perſon.</p>
+               <p>In <hi>Fevers,</hi> none durſt ever make uſe of the <hi>Oile</hi> of <hi>Cinamon</hi> [or of any other <hi>Spyce,</hi> ſo hot, either alone, or mixed with o<g ref="char:EOLhyphen"/>ther things] amongſt <hi>Priſans,</hi> or <hi>Iuleps,</hi> for quenching of <hi>Thirſt,</hi> provoking of <hi>Vrine,</hi> or
+<pb n="58" facs="tcp:34666:39"/>
+                  <hi>deebſtruating</hi> any part of the bo<g ref="char:EOLhyphen"/>dy; whereas nothing is more ordinary [to thoſe who know a little, above the <hi>common me<g ref="char:EOLhyphen"/>thod</hi>] than in ſuch caſes, to uſe the <hi>ſalinous ſpirits,</hi> of all ſorts.</p>
+               <p>This effect of the <hi>Onion,</hi> might alſo have been conjectu<g ref="char:EOLhyphen"/>red from its <hi>Signature:</hi> for it may be well alleadged, that by its <hi>round figure,</hi> many <hi>Tunicles,</hi> and <hi>ſpirituous effluvia's</hi> [reſem<g ref="char:EOLhyphen"/>bling <hi>the emiſsion of rayes,</hi> by which ſome alleadge that we doe ſee] it reſembleth the <hi>Eye;</hi> the <hi>haires</hi> of whoſe <hi>Lids,</hi> are al<g ref="char:EOLhyphen"/>ſo repreſented, by the <hi>roots</hi> of the <hi>Onion;</hi> whoſe <hi>Stem</hi> alſo re<g ref="char:EOLhyphen"/>ſembleth the <hi>Optick Nerve.</hi>
+               </p>
+               <p>From what hath been ſaid, it may be probably conjectur<g ref="char:EOLhyphen"/>ed, that it were better to con<g ref="char:EOLhyphen"/>tuſe
+<pb n="59" facs="tcp:34666:39"/>
+                  <hi>raw Onious,</hi> and to mix them with <hi>Cataplaſines;</hi> for <hi>Schirrhous Tumors;</hi> which is contrary to the common prac<g ref="char:EOLhyphen"/>tiſe, and to the learned and ac<g ref="char:EOLhyphen"/>curat <hi>Ioan. Vigerius,</hi> who in his <hi>Armamentarij Medico-Chirur<g ref="char:EOLhyphen"/>gici cap.</hi> 14. <hi>de Medicamentis Maturantibus,</hi> writeth thus, <hi>Cepa cruda acr is est &amp; mordax, ſed ſub cineribus cocta, acrimoni<g ref="char:EOLhyphen"/>am amittit &amp; pus movet, prae<g ref="char:EOLhyphen"/>ſertim in his tumoribus, qui a<g ref="char:EOLhyphen"/>gre ſuppurant.</hi>
+               </p>
+               <p>Conſidering the moſt la<g ref="char:EOLhyphen"/>mentable loſs, of our moſt ac<g ref="char:EOLhyphen"/>compliſhed <hi>Countrey Man, Mr. Iames Gregorie, Pofeſſor</hi> of the <hi>Mathematicks</hi> at <hi>Edenburgh,</hi> (who in <hi>October</hi> 1675 was ſud<g ref="char:EOLhyphen"/>denly ſeaſed with a <hi>Gutta ſere<g ref="char:EOLhyphen"/>na,</hi> having got cold by ſtand<g ref="char:EOLhyphen"/>ing
+<pb n="60" facs="tcp:34666:40"/>long bare-headed <hi>ſub die,</hi> af<g ref="char:EOLhyphen"/>ter which he dyed, within 14 dayes) I thought the noticeing of the forementioned <hi>Obſerva<g ref="char:EOLhyphen"/>tion,</hi> might poſſibly prevent the like <hi>Diſaſter,</hi> in ſome other perſon hereafter.</p>
+               <p>
+                  <hi>Secondly,</hi> In a more <hi>ordinarie</hi> way (<hi>Iames</hi> 1.17. <hi>Every good gift cometh down from the Father of lights, &amp;c.</hi>) gradually ſug<g ref="char:EOLhyphen"/>geſting to our mindes, that this <hi>Simple</hi> may be good for one <hi>Diſeaſe,</hi> and that for another (though not alwayes by the mediation of <hi>Signatures</hi>) and ſo prompting us, rationally &amp; cauteloufly, to attempt the try<g ref="char:EOLhyphen"/>all of their <hi>Energies,</hi> upon <hi>our ſelves,</hi> when there was little or no ground to fear danger, or u<g ref="char:EOLhyphen"/>pon <hi>Beaſts,</hi> when otherwiſe.
+<pb n="61" facs="tcp:34666:40"/>Thus empirically began <hi>Medi<g ref="char:EOLhyphen"/>cin;</hi> which gradually made its progreſs, according to the <hi>Pro<g ref="char:EOLhyphen"/>verb, Facile eſt inventis addere;</hi> and ſo became <hi>Dogmatical.</hi>
+               </p>
+               <p>This ſort of <hi>Knowledge</hi> in <hi>Man</hi> may be called <hi>Wiſdom</hi> and <hi>Invention.</hi>
+               </p>
+               <p>The <hi>ſecond</hi> way how <hi>Man</hi> hath attained the diſcovering of the medicinall vertues of <hi>Simples,</hi> was <hi>Imitation</hi> of <hi>Beaſts</hi> (which no man needs to cavil at, ſeeing the <hi>Almighty;</hi> chal<g ref="char:EOLhyphen"/>lengeth men for not learning from their practiſes; our duty to himſelf, <hi>Pſal.</hi> 84.3.4. <hi>Iſai.</hi> 1.2.3. and 43 20.21.22. &amp; <hi>Ierem.</hi> 8.7.) to all which, no doubt, their <hi>Creator</hi> hath given a competent knowledge, of what may be good for, or pre<g ref="char:EOLhyphen"/>judicial
+<pb n="62" facs="tcp:34666:41"/>unto themſelves, or their <hi>Maſters,</hi> which we may call <hi>Inſtinct;</hi> as alſo a docibitie by <hi>Man</hi> (for <hi>Iames</hi> 3.7. <hi>All ſorts of Beaſts have been tamed by man</hi> and, <hi>Longa dies homini, docuit parere Leones</hi>) which in them may be called <hi>ſagacitie,</hi> and is moſt conſpicu<g ref="char:EOLhyphen"/>ous in <hi>Dogs</hi> and <hi>Horſes<g ref="char:punc">▪</g>
+                  </hi> Yea, I have been informed by verie credible Perſons, that ſome <hi>Dogs</hi> have offered to hinder their <hi>Owners,</hi> from going to places of hazard or danger, and when diſobeyed have abſented themſelves from beholding it; and that others have diſcove<g ref="char:EOLhyphen"/>red the perpetraters of <hi>Murders</hi> committed upon their <hi>Maſters:</hi> which things are worthy of the diſquiſition of <hi>Divines</hi> and <hi>Philoſophers.</hi>
+               </p>
+               <pb n="63" facs="tcp:34666:41"/>
+               <p>For prooſe of what hath been aſſerted, concerning <hi>Mans</hi> imitation of <hi>Beaſts,</hi> in the <hi>Medi<g ref="char:EOLhyphen"/>cinal</hi> uſe of <hi>Simples,</hi> I ſhall only trouble the <hi>Reader</hi> with theſe few Inſtances.</p>
+               <p>
+                  <hi>Firſt, Celandin</hi> was firſt uſed for diſtempers of the <hi>Eyes:</hi> be<g ref="char:EOLhyphen"/>cauſe <hi>the Swallow was obſerved to apply its juice, to the diſtempe<g ref="char:EOLhyphen"/>red eyes of her young ones;</hi> for which cauſe alſo it got its <hi>name Chelidonia,</hi> from the <hi>Greek word</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifieth a <hi>Swallow.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> I was informed by a worthy and credible <hi>Gentle<g ref="char:EOLhyphen"/>man,</hi> that his Brother in Law (living ſix miles <hi>West</hi> from <hi>E<g ref="char:EOLhyphen"/>denburgh</hi>) had a <hi>Dog,</hi> ſubject to the <hi>Epilepſie;</hi> for which, when he found the <hi>Paroxiſm</hi> begin<g ref="char:EOLhyphen"/>ing,
+<pb n="64" facs="tcp:34666:42"/>he did immediatly (in the <hi>Summer</hi>) run to the <hi>Medow,</hi> where he ſnatched up ſome <hi>Herb,</hi> which did preveent his falling, if he reached thither; and in <hi>Winter</hi> he got towards the <hi>Hay-stack,</hi> with the ſame ſucceſs. As did my Informer, ſo muſt I, regrate, that none did watch the <hi>Dog,</hi> for diſco<g ref="char:EOLhyphen"/>vering what the <hi>Herb</hi> was.</p>
+               <p>
+                  <hi>Thirdly,</hi> It is ſufficiently wel known, that wilde <hi>Hawks</hi> doe ſwallow ſmall <hi>white ſtones</hi> (ly<g ref="char:EOLhyphen"/>ing by the brinks of <hi>Rivers</hi>) for to cauſe them vomite viſ<g ref="char:EOLhyphen"/>cide humors, oppreſſing their <hi>Stomacks;</hi> for which cauſe <hi>Fal<g ref="char:EOLhyphen"/>coners</hi> give the ſame <hi>Medicin</hi> to their tame ones. Moreover, I knew a friend of my own, who was much troubled with <hi>Coli<g ref="char:EOLhyphen"/>call</hi>
+                  <pb n="65" facs="tcp:34666:42"/>paines, which were moſt eaſed, by his ſwallowing 4 or 5 of ſuch <hi>ſtones:</hi> for they did purge him downwards ſeverall times, and did immediatly cure the <hi>paroxiſmes,</hi> for which he did often make uſe of the ſame individual <hi>stones.</hi>
+               </p>
+               <p>Before I conclude this <hi>Secti<g ref="char:EOLhyphen"/>on,</hi> I cannot forbear to mention <hi>Dr. Levin. Lemnius,</hi> his ex<g ref="char:EOLhyphen"/>cellent <hi>Treatiſe</hi> (which might be very uſefull to <hi>Divines</hi>) In<g ref="char:EOLhyphen"/>tituled, <hi>Similitudinum ac Para<g ref="char:EOLhyphen"/>bolarum, quae in Bibliis ex herbis at que arboribus deſumuntur, di<g ref="char:EOLhyphen"/>lucida explicatio.</hi> In which <hi>Trea<g ref="char:EOLhyphen"/>tiſe</hi> he ſheweth, that the dictat<g ref="char:EOLhyphen"/>ing <hi>Spirit</hi> of <hi>God,</hi> from the <hi>Sig<g ref="char:EOLhyphen"/>naturs</hi> [tho not expreſſed] of ſome <hi>Simples,</hi> and the known <hi>Qualities</hi> of others, doth teach
+<pb n="66" facs="tcp:34666:43"/>us divine <hi>Leſſons.</hi> The conſide<g ref="char:EOLhyphen"/>ration whereof doth fully re<g ref="char:EOLhyphen"/>fute the old <hi>Atheist,</hi> who ſaid
+<q>Non rebus exiguis vacat ad<g ref="char:EOLhyphen"/>eſſe Iovi.</q>
+               </p>
+               <p>I ſhal only mention one, <hi>viz.</hi> the <hi>Willow-Tree,</hi> of which in his 8 <hi>chapter,</hi> the ſumme wher<g ref="char:EOLhyphen"/>of take in theſe few words.</p>
+               <p>The <hi>Evangelical Prophet Iſai. chapter</hi> 43. having foretold the ruine of <hi>Babylon,</hi> alſe eaſily as <hi>Tow</hi> is conſumed by <hi>fire,</hi> in the 44 <hi>chapter God</hi> comforteth his <hi>Church,</hi> promiſing the affluance of all worldly comforts, and particularly (<hi>v.</hi> 4) <hi>That they ſhall ſpring up as among the graſs; as Willows, by the water courſes.</hi> For, this <hi>Tree</hi> by the <hi>Latines</hi> was called <hi>Salix, à Saliendo,</hi> from jumping, or louping be<g ref="char:EOLhyphen"/>cauſe
+<pb n="67" facs="tcp:34666:43"/>it ariſeth ſpeedily, and ſoon becometh a <hi>Tree</hi> And the <hi>Germans</hi> call it <hi>Willige,</hi> [hence <hi>Willow</hi>] becauſe it is prompt &amp; voluntarie in grow<g ref="char:EOLhyphen"/>ing. It was of that fort, whoſe <hi>Leaves</hi> are whitiſh, have a plea<g ref="char:EOLhyphen"/>ſant ſmell, and do mitigat the heat of the <hi>Air;</hi> for which cauſe the <hi>Hollanders,</hi> doe there<g ref="char:EOLhyphen"/>with garniſh the <hi>Beds</hi> of <hi>Sick-Perſons.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> According to <hi>Pſal.</hi> 137. the <hi>Iewes</hi> being c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptives in <hi>Babylon,</hi> and the <hi>Heathens</hi> in deriſion, <hi>deſireing them to ſing one of the ſongs of Zion; they wept, and hanged their Harps upon the Willows,</hi> and that appoſitely: becauſe this <hi>Tree</hi> is either <hi>bar<g ref="char:EOLhyphen"/>ren,</hi> or loſeth its <hi>Fruit</hi> or <hi>Seed,</hi> ere it come to maturitie. More<g ref="char:EOLhyphen"/>over,
+<pb n="68" facs="tcp:34666:44"/>it is <hi>bitter</hi> to the <hi>Taste,</hi> neither ſo beautifull or plea<g ref="char:EOLhyphen"/>ſant in aſpect, as are the <hi>Plain, Cedar,</hi> and <hi>Cypreſs-Trees.</hi> Wher<g ref="char:EOLhyphen"/>fore <hi>Exyle</hi> is fitly compared to it.</p>
+            </div>
+            <div n="6" type="section">
+               <head>SECTION VI.</head>
+               <p>IN the next place, I thought it would be very ſuteable to the <hi>Premiſſes,</hi> by way of <hi>Con<g ref="char:EOLhyphen"/>cluſion,</hi> to add a few lines con<g ref="char:EOLhyphen"/>cerning <hi>Wind</hi> or the <hi>Flatuoſity</hi> in the <hi>Stomack</hi> and <hi>Inteſtines</hi> for the diſpelling of which, the <hi>Mace</hi> is ſo much commended.</p>
+               <p>Having lately ſeen and per<g ref="char:EOLhyphen"/>uſed, <hi>A new and needfull Trea<g ref="char:EOLhyphen"/>tiſe of Wind offending Mans bo<g ref="char:EOLhyphen"/>dy, In which is deſcribed, the na<g ref="char:EOLhyphen"/>ture,
+<pb n="69" facs="tcp:34666:44"/>Cauſes and Symptoms of Wind, together with its ſpeedy and eaſie remedy.</hi> By <hi>W. R. M. D.</hi> one of the <hi>Trinm-viri,</hi> who tranſlated <hi>Riverius,</hi> his <hi>Practice of Medicin,</hi> to whoſe <hi>Epiſtle to the Reader,</hi> he hath ſubjoined a few pittifull <hi>Verſes,</hi> ſhewing who are <hi>Doctors,</hi> and who not. Printed 1676. I cannot but re<g ref="char:EOLhyphen"/>grate, that in this learned and accurat <hi>Age,</hi> any pretending to <hi>Degrees</hi> ſhould have obtruded upon his <hi>Contemporaries</hi> a <hi>fardle</hi> of ſuch antique, reaſonleſs (for the moſt part) <hi>Aſſertions,</hi> whoſe <hi>Errors</hi> have great need to be <hi>purged, Ignorance corrected,</hi> and <hi>Lameneſs reformed;</hi> as will be evident to any<g ref="char:punc">▪</g> who will but take notice of the few <hi>Inſtances,</hi> after mentioned.</p>
+               <pb n="70" facs="tcp:34666:45"/>
+               <p>Er I proceed further, I muſt here ſo far exerciſe your <hi>Can<g ref="char:EOLhyphen"/>dor</hi> and <hi>Patience,</hi> as to tolerat a ſhort <hi>Digreſsion</hi> concerning this <hi>Book.</hi>
+               </p>
+               <p>After I had peruſed it, and taken notice of many things, which cannot but offend the <hi>Eyes</hi> and <hi>Ears</hi> of any <hi>Perſon</hi> re<g ref="char:EOLhyphen"/>lated to <hi>Medicin,</hi> I did meet with a <hi>Gentleman,</hi> who having accidentally alſo met with it, in my <hi>Patients</hi> chamber, he pro<g ref="char:EOLhyphen"/>duced it to me, with <hi>Ioannis Fi<g ref="char:EOLhyphen"/>eni Andoverpiani de flatibus, humanum corpus moleſtantibus, Commentarius novus ac ſingula<g ref="char:EOLhyphen"/>ris, in quo flatuum natura cauſa &amp; Symptomata deſcribuntur ea<g ref="char:EOLhyphen"/>ramque, remedia facili &amp; expe<g ref="char:EOLhyphen"/>dita methodo indicantur.</hi> Tel<g ref="char:EOLhyphen"/>ling me, that the former was on
+<pb n="71" facs="tcp:34666:45"/>ly a <hi>Tranſlation</hi> of this (which, by comparing them, we pre<g ref="char:EOLhyphen"/>ſently diſcovered) without making any mention of the firſt <hi>Author,</hi> which <hi>Plagiarie Act,</hi> is rarely to be paralleled. The <hi>Author</hi> [or rather <hi>Tranſ<g ref="char:EOLhyphen"/>later</hi>] being conſcious to him<g ref="char:EOLhyphen"/>ſelf of this <hi>guile,</hi> did in the <hi>E<g ref="char:EOLhyphen"/>piſtle Dedicatorie,</hi> provide for himſelf, a poor refuge, from the deſerved challenges of the <hi>Ingenuous,</hi> in theſe words. <hi>I ſhal not ceaſe to hope, but this tranſla<g ref="char:EOLhyphen"/>tion, and Contribution of this kinde of knowledge to the Engliſh, and its humble Dedication, will have a fair and kynd acceptation, with your Wiſdoms. Not in the leaſt ſuppoſing either the Subject, [being of Wind and Spirits] or this diſcourſe, can be ſtrangers to
+<pb n="72" facs="tcp:34666:46"/>your generall reading.</hi>
+               </p>
+               <p>A <hi>Critick</hi> did deſervedly give this extemporarie <hi>Verdict</hi> of this <hi>Tranſlation,</hi>
+                  <q>
+                     <l>
+                        <hi>Fienus</hi> is my father, and its a ſhame,</l>
+                     <l>For ſuch a <hi>Cox-comb</hi> to ſup<g ref="char:EOLhyphen"/>preſs his name:</l>
+                     <l>For ſilly <hi>Beggers,</hi> who poſ<g ref="char:EOLhyphen"/>ſeſs no wealth,</l>
+                     <l>Yet much diſdain ſolely to live by ſtealth.</l>
+                  </q>
+               </p>
+               <p>Before I mention any of the promiſed <hi>Inſtances,</hi> I ſhall de<g ref="char:EOLhyphen"/>ſire you to conſider.</p>
+               <p>
+                  <hi>Firſt,</hi> That this <hi>Treatiſe</hi> is dedicated to one of the moſt learned and famous <hi>Societies,</hi> [viz. <hi>To the Royal Society, the Virtuoſi</hi>] in the <hi>World,</hi> which hath hudgely improven the <hi>Knowledge</hi> of <hi>Naturall Phyloſo<g ref="char:EOLhyphen"/>phy,</hi>
+                  <pb n="73" facs="tcp:34666:46"/>and <hi>Medicin,</hi> by many new <hi>Experiments,</hi> for ſolveing many <hi>Phaenomena,</hi> which puz<g ref="char:EOLhyphen"/>led the <hi>Pates</hi> of our <hi>Anceſtors.</hi> Yet in all this <hi>Book</hi> there is not the <hi>ſhadow</hi> of an <hi>appearance,</hi> that either the <hi>Author</hi> (who is more excuſeable, conſidering the time when he wrote) or the <hi>Tranſlater,</hi> did ever hear of the <hi>Fermentation of Humors.</hi> Only it ſeems, that ſome few <hi>Chymi<g ref="char:EOLhyphen"/>call words,</hi> have been <hi>Echo'd</hi> in<g ref="char:EOLhyphen"/>to their <hi>Ears,</hi> for, <hi>pag</hi> 80. he ordereth a <hi>Decoction to be made in B. M. pag.</hi> 104. <hi>Cinamon Water, Aqua Vita Ol. Aniſi pag.</hi> 106. <hi>the Oyles of Spike, Nut<g ref="char:EOLhyphen"/>megs. and Mace. pag.</hi> 144. <hi>and the Aſhes of a Fig-tree, or Iuni<g ref="char:EOLhyphen"/>per,</hi> are mentioned, which is all the <hi>Chymiſtrie,</hi> to be found in
+<pb n="74" facs="tcp:34666:47"/>this <hi>Treatiſe;</hi> whoſe <hi>Dedication</hi> to the <hi>Royall Society,</hi> is alſe im<g ref="char:EOLhyphen"/>pertinent, as if one ſhould de<g ref="char:EOLhyphen"/>dicat a <hi>Syſtem</hi> of <hi>Ariſtotelian-Phyloſophie,</hi> unto a <hi>Carteſian</hi> So<g ref="char:EOLhyphen"/>ciety.</p>
+               <p>
+                  <hi>Secondly,</hi> In the <hi>Epiſtle</hi> to the <hi>Reader</hi> (which in the <hi>Tranſla<g ref="char:EOLhyphen"/>tion,</hi> is made up of the <hi>Authors</hi> two <hi>Epiſtles</hi>) both theſe <hi>Blades</hi> doe pay their <hi>reſpects,</hi> to the moſt deſervedly famous, and admirably ingenious <hi>Hippocra<g ref="char:EOLhyphen"/>tes,</hi> in theſe words. <hi>Of Wind, Hippoc. hath written ſo that lit<g ref="char:EOLhyphen"/>tle benefit is to be gotten thereby—he uſeth Arguments far fetcht; and ſuch as teach rather the wit of the Author, than the knowledge or cure of the Diſeaſes that come from them. — Who wrote on this Subject, more learnedly than
+<pb n="75" facs="tcp:34666:47"/>profitably.</hi> But I am confident, that all, who are void of <hi>Inte<g ref="char:EOLhyphen"/>reſt,</hi> and purged from the <hi>dregs</hi> of <hi>adhaerence</hi> to any thing but <hi>Trueth,</hi> will be eaſily convin<g ref="char:EOLhyphen"/>ced, that in all that long flux of <hi>Time,</hi> betwixt <hi>Hipp.</hi> and <hi>us,</hi> no one amongſt the numerous ſwarm of <hi>Pathologiſts,</hi> hath ſhowen leſs <hi>Wit,</hi> or ſpoken leſs to the buſineſs taken in hand, than have theſe, the <hi>Author</hi> and <hi>Tranſlater,</hi> from the <hi>contagion</hi> of whoſe unequall undertake<g ref="char:EOLhyphen"/>ings, the <hi>reputation</hi> of that moſt antient <hi>pillar</hi> of <hi>Medicin</hi> (whoſe memorie hath been, and ſtill will be, embalmed, with the <hi>Elogicall commendations,</hi> and <hi>ad<g ref="char:EOLhyphen"/>mirations</hi> of the judicious and learned in all <hi>Ages,</hi>) will never ſuffer detriment, diſparage<g ref="char:EOLhyphen"/>ment,
+<pb n="76" facs="tcp:34666:48"/>or obſcurity, in this or any other matter; which we hope, ſome more judicious and elegant <hi>Hand,</hi> will ſet about to demonſtrat more fully, then we have here only intended to hint at.</p>
+               <p>The <hi>first Inſtance</hi> which I mention, is the lame <hi>deſcription</hi> of <hi>Flatus</hi> or <hi>Wind</hi> (mentioned <hi>pag.</hi> 9. which he calleth, <hi>an a<g ref="char:EOLhyphen"/>bundance of vapours from ſpirits, or meat or drinke, of flegm or me<g ref="char:EOLhyphen"/>lancholy, raiſed from a weak heat in the body.</hi> Yet <hi>pag.</hi> 1. he ſay<g ref="char:EOLhyphen"/>eth, <hi>That ſubſtance whether Air, Wind, or Blaſt — is called a ſpirit.</hi>
+               </p>
+               <p>
+                  <hi>Secondly pag.</hi> 16. <hi>Wind trou<g ref="char:EOLhyphen"/>bles ſuch commonly, that drinke thick ſweet Ale, Milk, or Water betwixt Meals chiefly: for that
+<pb n="77" facs="tcp:34666:48"/>corrupts concostion, and weakneth the action of the Stomack, as if you ſhould pour cold water into a boyling Kettle.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, Pag.</hi> 26 <hi>Galen ſaith, all the faults of water are from its coldneſs, by which it lyeth long in the Stomack, and cauſeth fluctua<g ref="char:EOLhyphen"/>tions, and turns to wind, and cor<g ref="char:EOLhyphen"/>rupts and weakens the Stomack, ſo that it concocts worſe.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly, Pag.</hi> 28. <hi>If you drinke preſently after meat, the concoction is interrupted, &amp; there will be crudities, which cauſe fluc<g ref="char:EOLhyphen"/>tuation and inflation of the Belly, like a Drum.</hi>
+               </p>
+               <p>The falſity of theſe three laſt <hi>Aſſertions,</hi> as to <hi>cold water,</hi> ſhall be ſhown hereafter.</p>
+               <p>
+                  <hi>Fifthly, Pag.</hi> 29. <hi>Keep thy feet from cold</hi> (which our <hi>High-Landers</hi>
+                  <pb n="78" facs="tcp:34666:49"/>doe not: for they uſe every morning to bath them in <hi>cold water,</hi> for preventing of <hi>Diſeaſes</hi>) <hi>for Nerves go from thence to the Stomack and pre<g ref="char:EOLhyphen"/>ſently cool it, and the Colick and all inflations, are cauſed thereby.</hi>
+               </p>
+               <p>This is alſe excellent an <hi>A<g ref="char:EOLhyphen"/>natomical Notion,</hi> co<g ref="char:cmbAbbrStroke">̄</g>cerning the originall of <hi>Nerv's,</hi> as was that of anothers, who affirmed that the <hi>Blood</hi> was <hi>firſt</hi> generat in the <hi>Brain;</hi> tho the <hi>Aſſertor</hi> might more probably, but alſe falſly, have affirmed, that the <hi>Chile</hi> owed its originall to it.</p>
+               <p>
+                  <hi>Sixthly, Pag</hi> 22. <hi>What op<g ref="char:EOLhyphen"/>preſſeth the naturall heat of the Stomack, is the cauſe of</hi> Wind, <hi>as</hi> Pulſe, <hi>&amp;c Boyle</hi> Beans <hi>alſe much as you will, they are windy. — but fry them, or any other</hi>
+                  <pb n="79" facs="tcp:34666:49"/>Pulſe, <hi>and they are not windy but very hard of concoction</hi> [which muſt certainly be, by their op<g ref="char:EOLhyphen"/>preſſing the <hi>natural heat,</hi> which is the cauſe why] <hi>they paſs away ſlowly and make groſs juice. But any way dreſſed they ſwell the bo<g ref="char:EOLhyphen"/>dy.</hi> Notable <hi>Contradictions Al<g ref="char:EOLhyphen"/>ſo all</hi> Summer-fruits, <hi>are like theſe. — they are flegmatick and Windy.</hi> O brave <hi>Cherries</hi> and <hi>Strawberries,</hi> notwithſtanding!</p>
+               <p>
+                  <hi>Seventhly. Pag.</hi> 24. <hi>Onions, and all Roots except a Parſneep and Schiroots</hi> (with which <hi>Par<g ref="char:EOLhyphen"/>ſley's</hi> might have been aſſociat) <hi>Leeks, and dry Figs</hi> (how come theſe here,) <hi>are windy.</hi> Yet <hi>pag.</hi> 12. of <hi>Beans</hi> he ſayeth, that <hi>ſome add Onions to prevent wind: becauſe hot and attenuating things correct Wind.</hi>
+               </p>
+               <pb n="80" facs="tcp:34666:50"/>
+               <p>
+                  <hi>Eightly, Pag.</hi> 55. <hi>Begin not Dinner, nor Supper with Drinke</hi> (and why not the <hi>Breakfaſt</hi> al<g ref="char:EOLhyphen"/>ſo?) <hi>nor drinke a great draught, as the cuſtom is, after they have eaten a bit or two. — Let liquide things be eaten before hard, and looſners before Aſtringents.</hi> Ex<g ref="char:EOLhyphen"/>cellent coherence.</p>
+               <p>
+                  <hi>Ninthly, Pag.</hi> 61. <hi>I allow not Caſsia it is windy.</hi> Yet <hi>pag.</hi> 65. he preſcribeth <hi>Diacathol. &amp;c.</hi> and <hi>pag.</hi> 88. <hi>Confectio Hamech,</hi> and <hi>Diaphaenicon,</hi> which to the <hi>Stomack,</hi> in compariſon with <hi>Purgative Tinctures,</hi> are like <hi>Bread</hi> made of <hi>Malt,</hi> compared with <hi>Ale.</hi>
+               </p>
+               <p>Is it not evident, from all thoſe witneſing <hi>citations,</hi> that the <hi>Author Fienus,</hi> hath been ignorant of the <hi>Doctrine</hi> and
+<pb n="81" facs="tcp:34666:50"/>
+                  <hi>Nature</hi> of <hi>Fermentation;</hi> and that this <hi>Tranſlater,</hi> hath never read the moſt ingenious and learned <hi>Diatriba de Fermenta<g ref="char:EOLhyphen"/>tione,</hi> written by his <hi>Countrey<g ref="char:EOLhyphen"/>man, Dr, Tho. Willis,</hi> neither his <hi>Pharmaceutice Rationalis par.</hi> 1. (Printed in the Year 1674.) in the 3 <hi>Sect.</hi> whereof, and <hi>Chap.</hi> 1. He, moſt ingeniouſly (ac<g ref="char:EOLhyphen"/>cording to his forementioned <hi>Treatiſe,</hi> and <hi>Principles</hi> therein) deſcribeth the manner how <hi>Wind</hi> (by him called <hi>Flatus</hi>) is bred in the body of <hi>Man.</hi>
+               </p>
+               <p>
+                  <hi>Dum Alimenta inviſceribus ſubacta &amp; digeſta à fermentis &amp; calore ipſorum diſſolvuntur, ef<g ref="char:EOLhyphen"/>fluvia quamplurima decedunt, quae ſi ſpatium liberum &amp; aper<g ref="char:EOLhyphen"/>tum obtinerent, in auras migra<g ref="char:EOLhyphen"/>tura evaneſcerent; verum ea mem<g ref="char:EOLhyphen"/>branâ
+<pb n="82" facs="tcp:34666:51"/>concluſa &amp; ſimul aggeſta, vaporum congeriem quaſi ven<g ref="char:EOLhyphen"/>tum conſtituunt qui inteſtina ſae<g ref="char:EOLhyphen"/>pe inflat ac diſtendit, &amp; qua data via ruens ſecum excretiones pro<g ref="char:EOLhyphen"/>movet; concluſus vere tormina, &amp; non rare ventris inflationem creat. —Hoc etenim inſigniter praeſtat, ſuccorum non rite miſci<g ref="char:EOLhyphen"/>bilium colluctatio &amp; efferveſcen<g ref="char:EOLhyphen"/>tia. Quippe dum humores ad<g ref="char:EOLhyphen"/>ventitij aut ingeſta heterogenea, ac imprimis Medicamenta, cum alijs intestinorum contentis fer<g ref="char:EOLhyphen"/>menteſcunt, à mutua particula<g ref="char:EOLhyphen"/>rum refractione corpuſcula quam<g ref="char:EOLhyphen"/>plurima decedentia, in vaporem aggeruntur.</hi> &amp;c.</p>
+               <p>My <hi>Deſign</hi> being chiefly to inform the <hi>Vulgar</hi> (who know not the many different parts &amp; humors in <hi>Mans</hi> body) how
+<pb n="83" facs="tcp:34666:51"/>this <hi>Wind</hi> is bred in the <hi>Stomack</hi> and <hi>Intestines,</hi> I ſhall only il<g ref="char:EOLhyphen"/>luſtrat the manner thereof (and that conforme to <hi>Dr. Willis</hi> his <hi>Principles</hi>) by this familiar <hi>ſimi<g ref="char:EOLhyphen"/>le;</hi> daily obvious to the <hi>Eyes,</hi> and <hi>Capacities</hi> of any.</p>
+               <p>
+                  <hi>Meat</hi> and <hi>Drink,</hi> whilſt they are digeſting in the <hi>Stomack</hi> [and further in the <hi>Inteſtines</hi>] by the help of a little <hi>Liquor</hi> (called the <hi>Ferment</hi>) and <hi>heat,</hi> they are ſo altered, that they become like <hi>Milk,</hi> called <hi>Chile.</hi> And if either, through the too great abundance or diverſity of <hi>Meats</hi> and <hi>Drinks</hi> received, [which are great impediments in <hi>Digestion,</hi> wherefore it is, that ſimple <hi>Brandie,</hi> doeth not occaſion ſuch belching of <hi>wind,</hi> as doe the other <hi>Strong-waters,</hi>
+                  <pb n="84" facs="tcp:34666:52"/>for which one called it <hi>unthank<g ref="char:EOLhyphen"/>full;</hi> and one <hi>diſh</hi> of <hi>Meat,</hi> is more eaſily digeſted, then is a <hi>mixture</hi> of many) or the <hi>ſuper<g ref="char:EOLhyphen"/>abounding heat</hi> (occaſioned by too much <hi>ſtrong drinke</hi>) or <hi>de<g ref="char:EOLhyphen"/>ficient</hi> [proceeding from the oppreſſion of too much groſ<g ref="char:EOLhyphen"/>neſs, or great varietie in the <hi>Stomack</hi>] the <hi>digeſtion</hi> be per<g ref="char:EOLhyphen"/>verted, the <hi>Chile</hi> and other <hi>hu<g ref="char:EOLhyphen"/>mors,</hi> contained in thoſe places doe become altered, as is the <hi>decoction</hi> of <hi>Malt</hi> (called <hi>Woort</hi>) when the <hi>Yeſt</hi> or <hi>Barm</hi> [which is the <hi>Ferment</hi>] is mixed with it: for when the <hi>Liquor</hi> in the <hi>Hogs-head</hi> ſwelleth and bubleth or belleth, the <hi>vapours</hi> aſcend<g ref="char:EOLhyphen"/>ing from them as they break, doe reſemble (or, are reſembled by) the <hi>belching</hi> of <hi>Wind,</hi> either
+<pb n="85" facs="tcp:34666:52"/>upward or downward. And as a <hi>Barrell</hi> filled with <hi>Ale,</hi> in this motion, if cloſly ſtoped, would burſt aſunder; ſo when thoſe <hi>vapours,</hi> ariſing in our <hi>Bodies</hi> (as is ſaid) can not get vent, by either of the forementioned wayes, firſt <hi>ſwelling,</hi> and then <hi>pain</hi> [occaſioned through the diſtending of the <hi>Stomack</hi> and <hi>Intestins</hi>] doe ariſe. Moreover, when the <hi>naturall heat</hi> is in a good condition, and the <hi>digeſ<g ref="char:EOLhyphen"/>tion</hi> is performed aright, the <hi>Chile</hi> is uniforme, having all its conſtituent parts proportio<g ref="char:EOLhyphen"/>nably mixed, as hath recent <hi>Milk:</hi> but when the <hi>Fermenta<g ref="char:EOLhyphen"/>tion</hi> becometh <hi>irregular</hi> [as is ordinary, after taking <hi>too</hi> much, eſpecially of different <hi>Meats</hi> &amp; <hi>Drinks</hi>] and the <hi>ſalinous parts</hi>
+                  <pb n="86" facs="tcp:34666:53"/>begin to pred<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e over the reſt, (which <hi>Dr. Willis</hi> calleth <hi>Sal fluorem adeptus</hi>) as when <hi>Milk</hi> in a <hi>Churne,</hi> or <hi>Kirn,</hi> be<g ref="char:EOLhyphen"/>cometh <hi>Acide</hi> or <hi>Soure;</hi> then the <hi>vapours</hi> ariſing from thence, doe excite <hi>dulneſs, oppreſsion of the ſpirits oſcitation or gaunting,</hi> and <hi>pain</hi> in the <hi>head.</hi> For which I know nothing better, (if the perſon be unwilling to provok <hi>Vomiting</hi>) the<g ref="char:cmbAbbrStroke">̄</g> to take a draught of <hi>Spring-water,</hi> an houre or two after <hi>Meat,</hi> when thoſe <hi>ſymptoms</hi> begin to ariſe; or to take it immedially after <hi>Meat,</hi> for preventing of thoſe <hi>ſymp<g ref="char:EOLhyphen"/>toms.</hi> For the <hi>cold water</hi> con<g ref="char:EOLhyphen"/>ſtringeth the <hi>upper orifice</hi> of the <hi>Stomack,</hi> whereby the <hi>digeſtion</hi> is helped, and debilitateth the activity of thoſe <hi>ſalinous parts,</hi>
+                  <pb n="87" facs="tcp:34666:53"/>and ſo doeth rectify the irregu<g ref="char:EOLhyphen"/>larity of the <hi>Fermentation;</hi> as when a <hi>Pot</hi> is boyling over, a little <hi>cold water,</hi> doeth ſedat the furious ebullition. Thus I hope the forementioned <hi>Aſſertions,</hi> concerning <hi>cold water,</hi> [in the 2.3. and 4. <hi>Inſtances</hi>] are in ſome meaſure refuted.</p>
+               <p>Likewiſe is not <hi>Hermannus Vander Heyden</hi> [formerly men<g ref="char:EOLhyphen"/>tioned] his <hi>Treatiſe</hi> (contain<g ref="char:EOLhyphen"/>ed in his <hi>Speedy help for Rich and Poor</hi>) concerning the <hi>cure of the Gout</hi> by <hi>cold water,</hi> inter<g ref="char:EOLhyphen"/>nally and externally uſed, a greater evidence of the falſity of thoſe <hi>Poſitions.</hi>
+               </p>
+               <p>But it is not in this caſe, that perſons are troubled with the <hi>belching</hi> of <hi>Wind,</hi> ſo much as when through the debility of
+<pb n="88" facs="tcp:34666:54"/>the <hi>natural heat,</hi> viſcide <hi>Flegm</hi> is generated in, and becometh fixed to the ſides of the <hi>stomack</hi> [for the prevention of which, doubtleſs the <hi>Mace</hi> is good] where, by its long ſtay and the action of the <hi>naturall heat,</hi> it becometh a <hi>praeternaturall fer<g ref="char:EOLhyphen"/>ment,</hi> occaſioning the boyling of <hi>humours,</hi> the <hi>hubles</hi> or <hi>bells</hi> whereof, when they burſt a ſun<g ref="char:EOLhyphen"/>der doe occaſion the unplea<g ref="char:EOLhyphen"/>ſant <hi>Eructations</hi> (like to the ſmell of too much rofled <hi>Eggs, &amp;c</hi>) of <hi>Wind,</hi> either upward or downward.</p>
+               <p>Any may be convinced of the probability of this, who will conſider that if <hi>unferment<g ref="char:EOLhyphen"/>ed Ale</hi> (which we call <hi>Woort</hi>) be put into a <hi>Barrell,</hi> contain<g ref="char:EOLhyphen"/>ing the <hi>Dregs</hi> and old <hi>Barm</hi> of
+<pb n="89" facs="tcp:34666:54"/>
+                  <hi>Ale,</hi> or have them mixed with it; that tho the <hi>fermentation</hi> will begin and proceed, yet the <hi>Ale</hi> thus made, will not be ſo good, or pleaſant, as that which was <hi>Fermented</hi> with recent <hi>Barm.</hi>
+               </p>
+               <p>Here I can not but informe you, that I once was called to a <hi>Merchants wife</hi> who had been for two houres troubled thus. For a little time ſhe did unceſ<g ref="char:EOLhyphen"/>ſantly belch <hi>wind</hi> upward, a<g ref="char:EOLhyphen"/>bour 30 or 40 times; then ſhe had alſe long reſpite; and im<g ref="char:EOLhyphen"/>mediatly ſhe moaned grievouſ<g ref="char:EOLhyphen"/>ly alſe long, becauſe of a pain in her <hi>left-Iawes,</hi> amongſt her <hi>Teeth</hi> [the diſcaſe by this <hi>Au<g ref="char:EOLhyphen"/>thor</hi> called, <hi>The Tooth-Ach from Wind</hi>] which ceaſing, within a little time ſhe began to belch
+<pb n="90" facs="tcp:34666:55"/>
+                  <hi>Wind,</hi> as before; and continued ſo doing interchangeably, for the ſpace of one other houre.</p>
+               <p>Laſtly, Is it not ſufficiently well known <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that as pains in the <hi>Stomack</hi> and <hi>Colon</hi> (the <hi>Theater,</hi> upon which the cruel <hi>Colick,</hi> hath acted many a <hi>Tra<g ref="char:EOLhyphen"/>gedie</hi>) are occaſioned either by <hi>Acrimonious humours,</hi> or <hi>Wind,</hi> excited by them; ſo whe<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>hot Medicins</hi> (as <hi>Spaniſh wine, Spyces, &amp;c.</hi> which are moſt pro<g ref="char:EOLhyphen"/>per, when <hi>Wind</hi> troubleth) have been ineffectuall, <hi>cold wa<g ref="char:EOLhyphen"/>ter</hi> hath been moſt ſuccesfully uſed: becauſe thereby the <hi>A<g ref="char:EOLhyphen"/>crimony</hi> of the <hi>Humours</hi> hath been blunted (as when you mix with one ounce of <hi>Vineger,</hi> or <hi>Salt water,</hi> 4. or 5. times alſe much of <hi>Freſh water</hi>) and they
+<pb n="91" facs="tcp:34666:55"/>excerned by <hi>Vrine</hi> and <hi>Stool.</hi>
+               </p>
+               <p>My deſign being only, to in<g ref="char:EOLhyphen"/>form the <hi>Vulgar,</hi> concerning thoſe ordinarie <hi>Means</hi> of <hi>Health,</hi> I ſhall not offer any thing relative to the <hi>rectifica<g ref="char:EOLhyphen"/>tion of peecant Humours, by Spa<g ref="char:EOLhyphen"/>gyricall Medicins:</hi> but refer the ſame to a more accuratpen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
